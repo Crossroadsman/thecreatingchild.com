@@ -2,3 +2,6 @@ baseURL = 'https://thecreatingchild.com/'
 languageCode = 'en-us'
 title = 'The Creating Child'
 theme = 'ananke'
+
+[params]
+  custom_css = ["css/custom.css"]

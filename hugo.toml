@@ -5,12 +5,19 @@ theme = 'ananke'
 
 [params]
   custom_css = ["custom.css"]
+  mainSections = ["Posts"]
+  recent_posts_number = 5
 
 [menu]
   [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 10
+    name = "Home"
+    url = "/"
+    weight = 20
+
+#  [[menu.main]]
+#    name = "Notes"
+#    url = "/notes/"
+#    weight = 10
 
   [[menu.main]]
     name = "Posts"

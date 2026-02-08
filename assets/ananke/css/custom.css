@@ -38,8 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 5) Improve measure (line length) for readability */
-.measure-wide { max-width: 34em; }   /* override Ananke's too-wide default for serif */
-.measure { max-width: 30em; }
+/* NOPE */
 
 /* 6) Make code/inline code look normal */
 code, pre, kbd, samp {
@@ -52,4 +51,30 @@ code, pre, kbd, samp {
 .f3, .f4, .f5, nav, header, footer {
   font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
                Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* --- Layout sanity: readable, left-aligned prose --- */
+
+/* 1) Never center-align the actual text */
+.nested-copy-line-height,
+.nested-copy-line-height p,
+.nested-copy-line-height li,
+.nested-copy-line-height blockquote {
+  text-align: left;
+}
+
+/* 2) Widen the content column (Ananke uses Tachyons .measure/.measure-wide) */
+.measure,
+.measure-wide {
+  max-width: min(88ch, 92vw);  /* ~88 characters, but don’t exceed viewport */
+}
+
+/* 3) Keep headlines aligned with the body text */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
+/* 4) Optional: make long lines a bit easier to track */
+.nested-copy-line-height {
+  line-height: 1.75;
 }

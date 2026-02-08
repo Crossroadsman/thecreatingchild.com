@@ -4,4 +4,15 @@ title = 'The Creating Child'
 theme = 'ananke'
 
 [params]
-  custom_css = ["css/custom.css"]
+  custom_css = ["custom.css"]
+
+[menu]
+  [[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10

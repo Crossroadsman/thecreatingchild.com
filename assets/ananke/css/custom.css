@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&family=Cormorant:wght@400;500;600&display=swap');
+
+/* 1) Base UI: keep the theme's "UI" feeling clean */
+body {
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+               Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 2) Headings: Lato, slightly tighter */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+               Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+}
+
+/* 3) Content: apply Cormorant only where long-form text lives.
+   Ananke uses .nested-copy-line-height for main article content. */
+.nested-copy-line-height,
+.nested-copy-line-height p,
+.nested-copy-line-height li,
+.nested-copy-line-height blockquote {
+  font-family: 'Cormorant', Georgia, 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1.75;
+}
+
+/* 4) Keep links readable with a serif body */
+.nested-copy-line-height a {
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 0.08em;
+}
+
+/* 5) Improve measure (line length) for readability */
+.measure-wide { max-width: 34em; }   /* override Ananke's too-wide default for serif */
+.measure { max-width: 30em; }
+
+/* 6) Make code/inline code look normal */
+code, pre, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+               'Liberation Mono', 'Courier New', monospace;
+  font-size: 0.95em;
+}
+
+/* 7) Optional: make the site title / nav look intentional */
+.f3, .f4, .f5, nav, header, footer {
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+               Roboto, Helvetica, Arial, sans-serif;
+}

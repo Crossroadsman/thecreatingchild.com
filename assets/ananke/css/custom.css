@@ -1,84 +1,178 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&family=Cormorant:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&family=Libre+Caslon+Text:wght@400;700&display=swap');
 
-/* 1) Base UI: keep the theme's "UI" feeling clean */
-body {
-  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-               Roboto, Helvetica, Arial, sans-serif;
-  font-weight: 400;
+/* ------------------------------------------------------------
+   Base: keep UI clean (Lato) and make rendering behave nicely
+   ------------------------------------------------------------ */
+
+:root {
+  /* Tune these without hunting through the file */
+  --content-max: 90ch;         /* width of main reading column */
+  --serif-size: 1.06rem;       /* body text size inside articles */
+  --serif-leading: 1.72;       /* line-height for long-form text */
+  --serif-tracking: -0.01em;   /* tighten Libre Caslon slightly */
+}
+
+html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* 2) Headings: Lato, slightly tighter */
+body {
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+               Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* ------------------------------------------------------------
+   Layout sanity: widen Ananke's measure and keep prose left
+   (Hugo minifier-safe: no min(), clamp(), mixed units, etc.)
+   ------------------------------------------------------------ */
+
+.measure,
+.measure-wide {
+  max-width: var(--content-max);
+  width: 100%;
+}
+
+/* Some Ananke pages can inherit centering. Never center prose. */
+.nested-copy-line-height,
+.nested-copy-line-height p,
+.nested-copy-line-height li,
+.nested-copy-line-height blockquote,
+.nested-copy-line-height dd,
+.nested-copy-line-height dt {
+  text-align: left;
+}
+
+/* ------------------------------------------------------------
+   Headings: Lato everywhere, tight + readable hierarchy
+   ------------------------------------------------------------ */
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
                Roboto, Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: -0.01em;
   line-height: 1.15;
+  text-align: center; /* ensures homepage + section titles stay centred, overridden for content below */
 }
 
-/* 3) Content: apply Cormorant only where long-form text lives.
-   Ananke uses .nested-copy-line-height for main article content. */
+
+/* Content headings should be left-aligned for readability */
+.nested-copy-line-height h1,
+.nested-copy-line-height h2,
+.nested-copy-line-height h3,
+.nested-copy-line-height h4,
+.nested-copy-line-height h5,
+.nested-copy-line-height h6 {
+  text-align: left;
+}
+
+
+/* Optional: if you want to keep homepage hero title centered,
+   comment OUT this block. If you prefer everything left, leave it. */
+/*
+header h1, header h2, header h3 {
+  text-align: center;
+}
+*/
+
+/* ------------------------------------------------------------
+   Long-form content: Libre Caslon Text everywhere it matters
+   Ananke wraps article content with .nested-copy-line-height
+   ------------------------------------------------------------ */
+
+/* Apply to the wrapper and common text elements */
 .nested-copy-line-height,
 .nested-copy-line-height p,
 .nested-copy-line-height li,
-.nested-copy-line-height blockquote {
-  font-family: 'Cormorant', Georgia, 'Times New Roman', serif;
+.nested-copy-line-height blockquote,
+.nested-copy-line-height dd,
+.nested-copy-line-height dt {
+  font-family: 'Libre Caslon Text', Georgia, 'Times New Roman', serif;
   font-weight: 400;
-  font-size: 1.15rem;
-  line-height: 1.75;
+  font-size: var(--serif-size);
+  line-height: var(--serif-leading);
+  letter-spacing: var(--serif-tracking);
+
+  /* Prefer CSS feature keywords (clean + broadly supported) */
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures contextual;
+
+  /* Oldstyle numerals + proportional numerals */
+  font-variant-numeric: oldstyle-nums proportional-nums;
+
+  /* Backstop for browsers that respect feature-settings more than variant-* */
+  font-feature-settings: "kern" 1, "liga" 1, "clig" 1, "calt" 1, "onum" 1, "pnum" 1;
 }
 
-/* 4) Keep links readable with a serif body */
+/* Make bold actually feel bold in Libre Caslon */
+.nested-copy-line-height strong,
+.nested-copy-line-height b {
+  font-weight: 700;
+}
+
+/* Italics: keep them from looking anemic */
+.nested-copy-line-height em,
+.nested-copy-line-height i {
+  font-style: italic;
+}
+
+/* Links inside prose: readable underline treatment */
 .nested-copy-line-height a {
-  text-underline-offset: 0.14em;
   text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.14em;
 }
 
-/* 5) Improve measure (line length) for readability */
-/* NOPE */
+/* Blockquotes: slight tone shift without centering weirdness */
+.nested-copy-line-height blockquote {
+  margin-left: 0;
+  padding-left: 1rem;
+  border-left: 0.25rem solid rgba(0,0,0,0.15);
+}
 
-/* 6) Make code/inline code look normal */
+/* Lists: keep them comfortable */
+.nested-copy-line-height ul,
+.nested-copy-line-height ol {
+  padding-left: 1.25rem;
+}
+
+/* ------------------------------------------------------------
+   Keep nav/footer/site chrome in Lato (avoid serif UI)
+   ------------------------------------------------------------ */
+
+nav, header, footer,
+.f1, .f2, .f3, .f4, .f5, .f6,
+.site-title, .site-header, .site-footer {
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+               Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* ------------------------------------------------------------
+   Code blocks: never let serif touch code
+   ------------------------------------------------------------ */
+
 code, pre, kbd, samp {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
                'Liberation Mono', 'Courier New', monospace;
   font-size: 0.95em;
 }
 
-/* 7) Optional: make the site title / nav look intentional */
-.f3, .f4, .f5, nav, header, footer {
-  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-               Roboto, Helvetica, Arial, sans-serif;
+pre {
+  line-height: 1.45;
+  overflow-x: auto;
 }
 
-
-/* --- Layout sanity: readable, left-aligned prose --- */
-
-/* 1) Never center-align the actual text */
-.nested-copy-line-height,
-.nested-copy-line-height p,
-.nested-copy-line-height li,
-.nested-copy-line-height blockquote {
-  text-align: left;
+/* Inline code in prose: slightly toned down */
+.nested-copy-line-height code {
+  font-size: 0.95em;
 }
 
-/* 2) Widen the content column (Ananke uses Tachyons .measure/.measure-wide) */
-.measure,
-.measure-wide {
-  max-width: 90ch;
-  width: 100%;
+/* ------------------------------------------------------------
+   Optional: tighten overly airy headings in lists/cards
+   ------------------------------------------------------------ */
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  text-decoration: none;
 }
-
-/* 3) Keep headlines aligned with the body text */
-h1, h2, h3, h4, h5, h6 {
-  text-align: left;
-}
-
-/* 4) Optional: make long lines a bit easier to track */
-.nested-copy-line-height {
-  line-height: 1.75;
-}
-
-

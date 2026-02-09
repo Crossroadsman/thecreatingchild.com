@@ -18,15 +18,15 @@ The framework comprises (at least) three parts, tentatively identified as:
 
 #### [Background]({{< ref "notes/background/_index.md" >}})
 
-AKA, the philosophy
+AKA, the philosophy, the moral vision.
 
 #### [Substance]({{< ref "notes/substance/_index.md" >}})
 
-AKA the approach itself
+AKA the approach itself, *what it is*
 
 #### [Implementation]({{< ref "notes/implementation/_index.md" >}})
 
-AKA detailed guidance, FAQs, troubleshooting, specifics, etc
+AKA detailed guidance, FAQs, troubleshooting, specifics, examples, etc
 
 #### [Bibliography]({{< ref "notes/bibliography/_index.md" >}})
 

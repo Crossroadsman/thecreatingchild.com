@@ -20,6 +20,18 @@ I'm especially concerned with:
 - coherence between what we say we value and what we actually structure our lives around
 
 
+### What Can I Contribute?
+
+Something like:
+- building resource networks for homeschoolers
+- creating curricula that emphasize coherence, philosophy, and wonder
+- developing platforms that connect families seeking depth
+- documenting what works, so other can copy or build upon without reinvention
+- acting as a translator between "outsiders" and homeschooling families to reduce suspicion
+
+All look like *stewardship*: building gardens, not factories.
+
+
 ### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
 
 Here's one: How do children live meaningful lives *now*, not later?
@@ -41,7 +53,42 @@ To answer questions like:
 - (And what constitutes progress?)
 - How do we protect *creation* from becoming *obligation*?
 - How do we explain this to skeptics?
-- How do we know *we're* not just beign lazy or chaotic?
+- How do we know *we're* not just being lazy or chaotic?
+
+To serve goals such as:
+
+- preserving (and maximising) agency
+- providing orientation
+- making growth visible
+
+
+### What is the Moral Vision?
+
+- What is a child?
+- What is childhood for?
+
+- Children are already living real lives.
+- Childhood is not instrumental.
+- Agency precedes instruction.
+- Meaning comes before measurement.
+- Creation matters more than consumption.
+
+#### Why it Matters
+
+A child who grows up experiencing herself as a cause:
+- doesn't need to be coerced to learn
+- doesn't collapse when structures change
+- doesn't outsource her worth to institutions
+- doesn't confuse obedience with goodness
+- doesn't equate value with performance
+
+She becomes:
+- internally motivated
+- psychologically sturdy
+- creatively alive
+- morally serious
+- difficult to dominate
+
 
 
 ### What Common Parent Experiences Are We Addressing?

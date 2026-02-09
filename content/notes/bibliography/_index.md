@@ -21,7 +21,7 @@ Dumbness used to be mere ignorance - about 40% into Ch. 6
 Reference to "Open Source Learning" (throughout)
 
 
-### John Holt and Pat Ferenga: Teach Your Own: The Indispensable Guide to Living and Learning with Children at Home
+### John Holt and Pat Farenga: Teach Your Own: The Indispensable Guide to Living and Learning with Children at Home
 
 Learning Pods
 

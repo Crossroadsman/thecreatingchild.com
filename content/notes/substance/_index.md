@@ -6,11 +6,20 @@ title = 'Substance'
 Substance
 =========
 
+**What It Is**
+
+AKA, the conceptual translation—what learning, agency and guidance mean in practice. It answers the question: "If I remove school, what replaces its organizing function?" (?)
+
+How the philosophy becomes homeschooling in practice.
+
+Answers the question: "If I accept your vision of childhood, what does a day actually look like?"
+
+
 ### What *Is* the Framework?
 
 - Qualitative not quantitative
 - Reflective not prescriptive
-- Adpative not fixed
+- Adaptive not fixed
 - Relational not linear
 
 #### What It Isn't
@@ -47,3 +56,65 @@ Instead of subjects we might describe domains of experience, like:
 - systems (math, logic, economics, games, strategy)
 - selfhood (emotions, relationships, ethics, identity)
 - worldhood (history, culture, geography, power, institutions)
+
+
+### Dimensions
+
+What are the dimensions of a child's engagement with the world?
+- curiosity
+- agency
+- solidarity
+- mastery
+- play
+- meaning-making
+- responsibility
+
+
+### Modes
+
+What are the modes a day can take?
+- exploration
+- rest
+- repetition
+- invention
+- social connection
+- absorption
+- chaos
+
+
+### Engagement States
+
+Offer a taxonomy or small vocabulary of recognizable states, e.g.:
+- absorbed creation (building, inventing, pretending, drawing, structuring)
+- exploratory wandering (trying, sampling, touching, abandoning)
+- skill deepening (repeating, refining, practicing)
+- social meaning-making (role-play, storytelling, negotiation)
+- rest/incubation (boredom, lying around, doing "nothing")
+- distress/overload (dysregulation, frustration, collapse)
+
+Give guidance for each:
+- what it means
+- what not to interrupt
+- when to support
+- when to step back
+- when to intervene
+
+It tells parents: "This is intelligible. You are not floating in chaos"
+
+
+### Rhythms
+
+Giving time shape without schedules. 
+Describe:
+- daily rhythms (energy rises/falls)
+- weekly rhythms
+- seasonal rhythms
+- attention cycles
+Predictability without rigidity.
+
+
+### Bits and Pieces
+
+"A meeting, living, doing place" (see e.g., Teach Your Own Ch. 5) and cf "not primarily a place for children". What are the pros and cons of places that are designed *for* children to maximise their agency and places that are built without regard to age where children can observe, join, assist adults in real endeavours?
+
+The importance of play (see, e.g., Teach Your Own Ch. 6)

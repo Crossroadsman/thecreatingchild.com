@@ -40,15 +40,25 @@ AKA detailed guidance, FAQs, troubleshooting, specifics, etc
 BIG Qs and where should the answers live
 -----------------------------------------
 
-### WHO
+### WHO? -> Section 1
 
-### WHAT
+- Anyone in a position to homeschool?
+  - People with full-time jobs?
+  - Very structured homeschoolers?
+  - Can this be made compatible with trad schooling so non-homeschoolers can participate
 
-### WHY
+### WHAT? -> Mostly Section 2
 
-### WHEN
+### WHY? -> Section 1
 
-### WHERE
+### WHEN? -> Section 2 and Section 3
 
-### HOW
+- What is the time commitment?
+
+### WHERE? -> Section 2 and Section 3
+
+- Is it as simple as "anywhere"?
+  - Even so, different environments call for different considerations? -> Section 3
+
+### HOW? -> Section 2 and Section 3
 

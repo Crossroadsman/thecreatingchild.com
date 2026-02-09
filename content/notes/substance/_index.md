@@ -3,8 +3,8 @@ date = '2026-02-08T08:55:14-08:00'
 title = 'Substance'
 +++
 
-Substance
-=========
+Overview
+========
 
 **What It Is**
 
@@ -15,16 +15,17 @@ How the philosophy becomes homeschooling in practice.
 Answers the question: "If I accept your vision of childhood, what does a day actually look like?"
 
 
-### What *Is* the Framework?
+What *Is* the Framework?
+------------------------
 
 - Qualitative not quantitative
 - Reflective not prescriptive
 - Adaptive not fixed
 - Relational not linear
 
-#### What It Isn't
+### What It Isn't
 
-##### A Homeschool Method
+#### A Homeschool Method
 
 At least, not merely a homeschool method. This is a vision of child relations that facilitates and reinforces the child's instinct that "My existence alters the world". Everything else grows from that:
 - reading
@@ -34,7 +35,7 @@ At least, not merely a homeschool method. This is a vision of child relations th
 - ethics
 - work
 
-##### A Curriculum
+#### A Curriculum
 
 The word *curriculum* has always meant something structured. From the earliest use in Latin as "the course of a race" to its importation into the educational context in the 16th century it represented fixed order and structure.
 
@@ -43,7 +44,7 @@ We reject coercive structure, not meaningful structure: humans still need orient
 When we provide structure we build it around growth, not compliance.
 
 
-##### A Syllabus
+#### A Syllabus
 
 A syllabus typically defines expectations and responsibilities.
 
@@ -58,7 +59,12 @@ Instead of subjects we might describe domains of experience, like:
 - worldhood (history, culture, geography, power, institutions)
 
 
-### Dimensions
+Components
+==========
+
+
+Dimensions
+----------
 
 What are the dimensions of a child's engagement with the world?
 - curiosity
@@ -70,7 +76,8 @@ What are the dimensions of a child's engagement with the world?
 - responsibility
 
 
-### Modes
+Modes
+-----
 
 What are the modes a day can take?
 - exploration
@@ -82,7 +89,8 @@ What are the modes a day can take?
 - chaos
 
 
-### Engagement States
+Engagement States
+-----------------
 
 Offer a taxonomy or small vocabulary of recognizable states, e.g.:
 - absorbed creation (building, inventing, pretending, drawing, structuring)
@@ -102,7 +110,8 @@ Give guidance for each:
 It tells parents: "This is intelligible. You are not floating in chaos"
 
 
-### Rhythms
+Rhythms
+-------
 
 Giving time shape without schedules. 
 Describe:
@@ -113,7 +122,20 @@ Describe:
 Predictability without rigidity.
 
 
-### Bits and Pieces
+
+Signals
+-------
+
+What are the signals something is working?
+- longer attention
+- voluntary return
+- increased confidence
+- spontaneous elaboration
+- resilience after frustration
+
+
+Bits and Pieces
+===============
 
 "A meeting, living, doing place" (see e.g., Teach Your Own Ch. 5) and cf "not primarily a place for children". What are the pros and cons of places that are designed *for* children to maximise their agency and places that are built without regard to age where children can observe, join, assist adults in real endeavours?
 

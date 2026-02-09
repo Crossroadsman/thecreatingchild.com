@@ -79,5 +79,23 @@ A place where:
 
 ## Other Questions to Think About
 
-- 
+- What do I believe education is for?
+- What do I reject and why?
+- What do I notice working?
+- What feels wrong?
+- What children actually need in moments of confusion
+- What creation looks like at different ages (5, 8, 10, etc)
+- What dignity looks like at different ages
+- What agency looks like at those ages
+- How can this change a child's day?
+- What would this look like in... a kitchen? a garage? a garden? etc
+- How would this make a life more real?
+
+
+## Everyday Questions
+
+- Where is my child adding value?
+- What feels real to them right now?
+- What would make today significant?
+- What could they build, fix, serve, or shape?
 

@@ -89,6 +89,23 @@ What are the modes a day can take?
 - chaos
 
 
+Non-Curriculum Map
+------------------
+
+Explicitly name what fills the curriculum slot.
+Instead of math, science, English, map:
+- symbolic play
+- narrative construction
+- quantitative intuition
+- causal reasoning
+- tool use
+- social modeling
+- aesthetic experimentation
+
+Show how these emerge naturally through creation → Reassures that nothing essential is being neglected, only reframed.
+
+
+
 Engagement States
 -----------------
 
@@ -132,6 +149,87 @@ What are the signals something is working?
 - increased confidence
 - spontaneous elaboration
 - resilience after frustration
+
+
+Role Redefinitions
+------------------
+
+Not: teacher/instructor/manager/evaluator
+but:
+- steward of environment
+- curator of affordances
+- interpreter of signals
+- guardian of psychological safety
+
+Contrast:
+
+| School Logic      | Creation-First Logic  |
+|-------------------|-----------------------|
+| Deliver Content   | → Shape Conditions    |
+| Measure Outcomes  | → Observe Engagement  |
+| Correct Errors    | → Support Exploration |
+| Control Behaviour | → Protect Agency      |
+
+
+
+Substitutes to School Structures
+--------------------------------
+
+School provides structures:
+- temporal (days, weeks, terms/semesters, years)
+- moral (this is what matters)
+- epistemic (this is what knowledge is)
+- authority (this is who decides)
+
+Thus the framework must provide ways to think about:
+- time
+- progress
+- intervention
+- stagnation
+- responsibility
+
+Instead of grades:
+- depth of engagement
+- increasing authorship
+- resilience after frustration
+- ability to start things
+- ability to abandon things without collapse
+
+Instead of subjects:
+- domains of creation
+  - making
+  - imagining
+  - organizing
+  - exploring
+  - relating
+
+Instead of lesson plans:
+- invitations
+- environments
+- materials
+- rhythms
+- rituals
+
+
+
+Environmental Design Principles
+-------------------------------
+
+Instead of lesson plans, provide design constraints:
+- material richness beats instruction
+- accessibility beats explanation
+- tools beat toys
+- open-ended objects beat closed systems
+- visible adult work beats chilld-only spaces
+
+Outline categories:
+- physical space
+- materials
+- time structure
+- social exposure
+- adult presence
+
+"If the environment is doing most of the work, the parent doesn't need to."
 
 
 Bits and Pieces

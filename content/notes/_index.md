@@ -54,7 +54,7 @@ BIG Qs and where should the answers live
 ## WHERE? → Section 2 and Section 3
 
 - Is it as simple as "anywhere"?
-  - Even so, different environments call for different considerations? -> Section 3
+  - Even so, different environments call for different considerations? → Section 3
 
 ## HOW? → Section 2 and Section 3
 

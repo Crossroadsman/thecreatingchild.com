@@ -5,3 +5,5 @@ title = 'Salon'
 
 The Salon
 =========
+
+A place where interested people can safely meet and discussion this and other serious ideas

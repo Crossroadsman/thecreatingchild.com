@@ -17,6 +17,8 @@ History of compulsory/standardised ed in USA (Ch. 2?)
 David Sarnoff, a significant life at age 10 - about 1/4 into Ch. 5
 
 Dumbness used to be mere ignorance - about 40% into Ch. 6
+- dumbness used to be mere ignorance but schooling has created a categorically different kind of dumbness. A sort of dumbness that creates a veneer of intellect around a mind that's utterly, and obliviously, inert
+- schooling produces people who look competent, sound articulate, and function smoothly inside systems, while being almost entirely disconnected from first-principles reasoning, moral independence, or creative initiative.
 
 Reference to "Open Source Learning" (throughout)
 

@@ -29,6 +29,7 @@ I believe in:
 
 Unschooling is fundamentally the flavour of established homeschooling that I find most compelling and consistent with the ideals of homeschooling. But even I sometimes find it so unstructured as to be paralyzing (and pity those, like my long-suffering wife, who leans more towards the school-at-home conception of homeschooling). It seems like there's a gap for something that helps parents who are sympathetic to unschooling find a way to navigate it while at the same time having something to help assess progress, especially when the child themselves is feeling directionless.
 
+It's been said that "unschooling without any scaffolding can feel like being dropped in the middle of the ocean and told 'swim wherever you like'. That's freedom, but it's also terrifying. Some children thrive in that, some freeze, some drift, and many oscillate between bursts of curiosity and long stretches of disorientation. Parents feel it too: am I honoring autonomy, or am I abandoning guidance?"
 
 
 What Can I Contribute?

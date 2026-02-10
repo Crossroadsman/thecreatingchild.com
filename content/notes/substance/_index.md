@@ -23,6 +23,12 @@ What *Is* the Framework?
 - Adaptive not fixed
 - Relational not linear
 
+Should do (perhaps among other things) three things simultaneously:
+- preserve (and maximize) agency;
+- provide orientation; and
+- make growth visible.
+
+
 ### What It Isn't
 
 #### A Homeschool Method

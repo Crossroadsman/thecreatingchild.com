@@ -52,6 +52,13 @@ Here's one: How do children live meaningful lives *now*, not later?
 
 Children are:
 - present beings, not merely future adults
+- full moral agents
+    - they care deeply,
+    - they suffer real losses,
+    - they experience pride, shame, loyalty, betrayal, wonder...
+    - they form values,
+    - they notice (and experience) injustice,
+    - they want to **matter**
 - contributors, not trainees
 - creators, not vessels
 
@@ -74,13 +81,26 @@ To serve goals such as:
 
 - preserving (and maximising) agency
 - providing orientation
-- making growth visible
+- making growth visible → and note that we shouldn't want to be asking "Are you learning?" so much as "Are you experiencing your own unfolding?"
+- build fluency in things like:
+  - self-perception
+  - internal navigation
+  - gentle commitment
+  - reversible action
+  - trusting emergence
 
 
 What is the Moral Vision?
 -------------------------
 
 - What is a child?
+  - full moral agents
+    - they care deeply,
+    - they suffer real losses,
+    - they experience pride, shame, loyalty, betrayal, wonder...
+    - they form values,
+    - they notice (and experience) injustice,
+    - they want to **matter**
 - What is childhood for?
 
 - Children are already living real lives.
@@ -88,6 +108,11 @@ What is the Moral Vision?
 - Agency precedes instruction.
 - Meaning comes before measurement.
 - Creation matters more than consumption.
+
+An important aspect of a child-respecting education or development system, something that even Unschooling sometimes ignores or under-appreciates, is that education is a system that takes 15 to 20 years of a young person's life (the years when they have the most imagination, energy, creativity, risk tolerance, free time, neuroplasticity, emotional intensity, novelty-seeking, and openness) and promises in exchange to give them knowledge. Even the best homeschooling systems implicitly make this trade. And perhaps it is a poor bargain. Perhaps more focus during those years should be on supporting the young person to accomplish something they care about, not in terms of credentials, but in terms of putting something into the world. Adding to the stock of the world's wealth (for want of a better term) and building something for and of oneself. "Learning", as popularly understood, is at most a side-effect of that.
+
+**Adding to the world is how humans discover who they are**
+
 
 ### Why it Matters
 
@@ -141,6 +166,23 @@ A place where:
 - mess is allowed
 - time is deep
 - curiosity has weight
+
+
+On "Learning"
+-------------
+
+Under this framework, learning isn't the point. But (the right) learning is valuable.
+
+**Knowledge is inert without purpose**
+
+When we invert the relationship between learning and purpose (instead of "learn alegebra so you can one day do..." we say, "you want to build *X*? Let's learn what you need..."):
+- learning becomes instrumentally meaningful
+- effort becomes voluntary
+- difficulty becomes justified
+- competence becomes visible
+- identity forms around *agency*, not compliance
+
+The child ceases to be a *student*, a vessel for knowledge, and instead is a *creator*, a *maker*, a *contributor*.
 
 
 Other Questions to Think About

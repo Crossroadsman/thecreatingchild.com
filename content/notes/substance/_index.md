@@ -31,6 +31,9 @@ Should do (perhaps among other things) three things simultaneously:
 
 ### What It Isn't
 
+Traditional education, including enlightened versions, says, "We care about children" but structurally behaves as if it means, "We care what they will later become useful for".
+
+
 #### A Homeschool Method
 
 At least, not merely a homeschool method. This is a vision of child relations that facilitates and reinforces the child's instinct that "My existence alters the world". Everything else grows from that:
@@ -123,6 +126,14 @@ Offer a taxonomy or small vocabulary of recognizable states, e.g.:
 - rest/incubation (boredom, lying around, doing "nothing")
 - distress/overload (dysregulation, frustration, collapse)
 
+These can be less formal, such as "do you feel...":
+- buzzy or flat?
+- restless or heavy?
+- like you want movement or stillness?
+- curious or tired?
+- in need of comfort or a challenge?
+- you want noise or quiet?
+
 Give guidance for each:
 - what it means
 - what not to interrupt
@@ -131,6 +142,27 @@ Give guidance for each:
 - when to intervene
 
 It tells parents: "This is intelligible. You are not floating in chaos"
+
+
+Modes
+-----
+
+E.g.,
+- body or head
+- make something or explore something
+- predictable or surprising
+- something already good at or something new
+- follow instructions or invent your own
+
+
+Shapes
+------
+
+E.g.,
+- short or long
+- alone or together
+- messy or tidy
+- serious or playful
 
 
 Rhythms
@@ -155,6 +187,16 @@ What are the signals something is working?
 - increased confidence
 - spontaneous elaboration
 - resilience after frustration
+
+
+Choice Stack
+------------
+
+In situations of uncertainty, consider making the decision grammar a stack, maybe in the form of:
+
+State → Mode → Shape → Activity
+
+The earlier stages are easier for a child to identify and articulate and help to whittle down or expose appropriate choices down the stack.
 
 
 Role Redefinitions
@@ -236,6 +278,28 @@ Outline categories:
 - adult presence
 
 "If the environment is doing most of the work, the parent doesn't need to."
+
+
+What Does This Look Like in Practice
+------------------------------------
+
+Not productivity theatre.
+
+- long-running personal projects
+- community-embedded work
+- collaborative creations
+- real products
+- real audiences
+- real users
+- real consequences
+- real pride
+
+Adults are:
+- translators
+- safety nets
+- skill suppliers
+- ethical guides
+- logistical support
 
 
 Bits and Pieces

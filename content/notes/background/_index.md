@@ -17,6 +17,19 @@ I'm especially concerned with:
 - meaning as something lived, not merely theorized
 - coherence between what we say we value and what we actually structure our lives around
 
+I care about *fertile systems*, about creating environments where something genuinely new, valuable and autonomous can emerge without being distorted, exploited, or crushed by existing power structures. About stewardship rather than control.
+
+I'm not trying to shape outcomes but conditions.
+
+I'm not anti-learning, I'm anti-systemic flattening. I'm opposed to institutions that optimize for compliance, standardization, and throughput at the expense of agency, curiosity, and depth.
+
+I believe in:
+- systems that reward exploration over obedience
+- environments that trust families
+
+Unschooling is fundamentally the flavour of established homeschooling that I find most compelling and consistent with the ideals of homeschooling. But even I sometimes find it so unstructured as to be paralyzing (and pity those, like my long-suffering wife, who leans more towards the school-at-home conception of homeschooling). It seems like there's a gap for something that helps parents who are sympathetic to unschooling find a way to navigate it while at the same time having something to help assess progress, especially when the child themselves is feeling directionless.
+
+
 
 What Can I Contribute?
 ----------------------

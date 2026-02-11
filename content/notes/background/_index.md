@@ -3,6 +3,11 @@ date = '2026-02-08T08:54:31-08:00'
 title = 'Background'
 +++
 
+
+This is not about pedagogy yet. This is about metaphysics and moral stance.
+
+
+
 Some Early Questions
 ====================
 
@@ -31,6 +36,13 @@ Unschooling is fundamentally the flavour of established homeschooling that I fin
 
 It's been said that "unschooling without any scaffolding can feel like being dropped in the middle of the ocean and told 'swim wherever you like'. That's freedom, but it's also terrifying. Some children thrive in that, some freeze, some drift, and many oscillate between bursts of curiosity and long stretches of disorientation. Parents feel it too: am I honoring autonomy, or am I abandoning guidance?"
 
+My contribution, to the extent that I'm bringing something to this discussion, is not new *content* but *coherence across domains*:
+- bringing metaphysics into parenting
+- existential dignity into education
+- structure into freedom
+- seriousness into play
+- compassion into rigour
+
 
 What Can I Contribute?
 ----------------------
@@ -51,7 +63,7 @@ What is the Question We're Actually Trying to Answer, the Problem We Actually Wa
 Here's one: How do children live meaningful lives *now*, not later?
 
 Children are:
-- present beings, not merely future adults
+- present beings, not merely future (or unfinished) adults
 - full moral agents
     - they care deeply,
     - they suffer real losses,
@@ -62,9 +74,40 @@ Children are:
 - contributors, not trainees
 - creators, not vessels
 
+As beings with full, present moral worth, then:
+- suffering cannot be justified merely by future benefit
+- boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good - discuss later)
+- meaning cannot be deferred indefinitely
+- education must answer to a child's lived experience now
+
+Consider moral agency vs responsibility vs authority
+
+Agency, which we regard as morally and developmentally prior to learning, does not mean:
+- radical autonomy,
+- total freedom,
+- absence of structure,
+- self-sufficiency
+But rather *the lived experience of being able to initiate action and see it matter in the world*.
+
 Children deserve to experience themselves as contributors to reality, not merely as future applicants
 
 **A life of significance**
+
+
+Learning without agency is morally thin because it trains:
+- passivity
+- compliance
+- external validation
+
+But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
+- organizes attention,
+- sustains motivation,
+- integrates memory,
+- makes difficulty meaningful.
+So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
+
+Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
+
 
 
 What is the Framework *For*?
@@ -103,7 +146,10 @@ What is the Moral Vision?
     - they form values,
     - they notice (and experience) injustice,
     - they want to **matter**
+  - a *person* whose scale is different, not whose dignity is lower
 - What is childhood for?
+  - it is for living, and for progressively expanding the scope of that life. It is not about preparation, it is about participation.
+  - childhood is an *end* not a *means*.
 
 - Children are already living real lives.
 - Childhood is not instrumental.
@@ -129,6 +175,18 @@ This thesis implies things most people don’t want to say out loud:
 - That children are being denied participation, not merely miseducated.
 - That the harm is not primarily intellectual but existential.
 - That "preparing for adulthood" has become an excuse to postpone personhood.
+
+Learning is not the goal. This doesn't mean:
+- learning doesn't matter
+- knowledge is optional
+- skills are incidental
+- education should be indifferent to competence
+It means that learning is not the *telos* of childhood.
+
+When learning becomes the goal, everything else becomes instrumental, and this corrupts the child's relationship to the world (and to themselves):
+- curiosity becomes a tool (if it survives at all),
+- projects become vehicles,
+- interests become leverage
 
 
 **Adding to the world is how humans discover who they are**
@@ -195,32 +253,6 @@ What Common Parent Experiences Are We Addressing?
 - (from kids) the feeling, even if inarticulable, that they are being *prepared for life* instead of being allowed to *live one*
 - A quiet grief from adults that their own sense of significance and meaning was deferred until it withered
 
-
-
-What is [The Salon]({{< ref "notes/other_projects/salon.md" >}}) For?
----------------------------------------------------------------------
-
-- Where ideas breathe
-- Where they're stress-tested
-- Where people stop feeling alone
-
-A space for:
-- seriousness without rigidity
-- curiosity without dogma
-- disagreement without hostility
-- imagination without embarrassment
-
-
-What is [The Workshop]({{< ref "notes/other_projects/workshop.md" >}}) For?
----------------------------------------------------------------------------
-
-A place where:
-- children build
-- adults *assist* rather than command
-- projects matter
-- mess is allowed
-- time is deep
-- curiosity has weight
 
 
 On "Learning"

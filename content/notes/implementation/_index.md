@@ -25,25 +25,27 @@ Shaping experience, not shaping products.
 
 So the system begins with three simple commitments:
 
-1. Protect the child’s sense of authorship
+1. **Protect the child’s sense of authorship**
     If a child feels that most of their day is chosen by other people, they learn that life is something that happens to them. If they feel that their day is something they help shape, they learn that existence is participatory.
     This means:
     - offering choices that are real, not performative,
     - allowing plans to be abandoned without punishment,
     - letting curiosity set direction,
     - resisting the urge to optimize or complete.
+    
     A five-year-old who decides "I want to build a trap for fairies" and spends two hours gathering nonsense materials is not wasting time. They are practicing being a cause in the world.
-2. Replace "learning goals" with "meaningful engagement"
+2. **Replace "learning goals" with "meaningful engagement"**
     At this age, progress isn’t measured by mastery. It’s measured by:
     - longer attention,
     - deeper imagination,
     - greater confidence in starting things,
     - resilience after frustration,
     - willingness to explore uncertainty.
+    
     Creation-first development asks:
     Is the child increasingly willing to try, to invent, to risk being wrong?
     That is more important than whether they know letters early or count to 100.
-3. Treat play as real work
+3. **Treat play as real work**
     Play is how young humans experiment with:
     - power,
     - identity,
@@ -51,16 +53,19 @@ So the system begins with three simple commitments:
     - social roles,
     - emotional boundaries,
     - possibility.
+    
     A creation-first environment doesn’t interrupt play to “add learning.” It builds around play so that learning becomes a side effect of agency rather than its justification.
     For example:
     If a child builds a shop:
     - you don’t turn it into a math lesson,
     - you participate as a customer,
     - you let numbers arise organically if they do.
+    
     If a child draws monsters:
     - you don’t correct anatomy,
     - you ask what they’re like,
     - you let the world deepen.
+    
     Creation isn’t about finishing something. It’s about expanding something.
     So where do you "begin" with a five-year-old?
     You begin by changing what you think your role is.
@@ -68,17 +73,20 @@ So the system begins with three simple commitments:
     - Not curriculum designer.
     - Not evaluator.
     - But steward of possibility.
+    
     Your job becomes:
     - keeping the world safe enough to explore,
     - rich enough to invite invention,
     - quiet enough for imagination,
     - responsive enough to validate agency.
+    
     The paradox is that this is simultaneously very gentle and very demanding. It requires:
     - patience with chaos,
     - tolerance for inefficiency,
     - trust in growth you cannot measure,
     - resistance to comparison. And most of all:
     - the courage to let childhood be a life, not a rehearsal.
+    
     Creation-first development for young children is not about accelerating them into significance. It is about acknowledging that they already live inside it.
 
 

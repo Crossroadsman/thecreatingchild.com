@@ -41,6 +41,7 @@ Work - Chapter 9(?) generally
 
 ## In Queue
 
-- Liedloff: The Continuum Concept
 - Gatto: The Underground History of American Education
+- Charlotte Iserbyt-Thomson: The Deliberate Dumbing Down of America
+- Liedloff: The Continuum Concept
 

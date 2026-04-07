@@ -13,6 +13,8 @@ This is not about pedagogy yet. This is about metaphysics and moral stance.
 Some Early Questions
 --------------------
 
+These are mostly notes to self to assist with developing the argument and framework, but elements might be extracted later for a brief bio or whatever.
+
 ### Why Me?
 
 I'm especially concerned with:
@@ -44,7 +46,6 @@ My contribution, to the extent that I'm bringing something to this discussion, i
 - seriousness into play
 - compassion into rigour
 
-
 ### What Can I Contribute?
 
 Something like:
@@ -55,7 +56,6 @@ Something like:
 - acting as a translator between "outsiders" and homeschooling families to reduce suspicion
 
 All look like *stewardship*: building gardens, not factories.
-
 
 ### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
 
@@ -92,7 +92,6 @@ Children deserve to experience themselves as contributors to reality, not merely
 
 **A life of significance**
 
-
 Learning without agency is morally thin because it trains:
 - passivity
 - compliance
@@ -106,8 +105,6 @@ But there is also a practical side-effect: children learn *better* when they exp
 So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
 
 Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
-
-
 
 ### What is the Framework *For*?
 
@@ -131,7 +128,6 @@ To serve goals such as:
   - gentle commitment
   - reversible action
   - trusting emergence
-
 
 ### What is the Moral Vision?
 
@@ -280,18 +276,67 @@ And I’m also not making the sometimes-heard case of “don’t do X for reward
 It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
 
 
+### What is the Target Audience and How Should We Address Them?
+
+#### Instinctively Sympathetic/Supportive
+
+- Parents already homeschooling or considering it (**this is the core audience**) (especially unschoolders)
+  - these don't need to be convinced, they need to be equipped
+  - think also about the subgroup where one parent is already sympathetic but the other parent has mroe traditional instincts
+- Parents who are uncomfortable with conventional schooling but haven't made a leap (**adjacent audience?**)
+  - the fiduciary aspect might be especially persuasive here
+
+#### Neutral
+
+- Paediatricians, child psychologists, social workers, extended family members, some government, some educators, judges
+  - not hostile but operating from institutional assumptions
+  - worry about socialization, benchmarks, and abuse behind closed doors
+  - these people don't need a lot of space in the doc but a brief acknowledgment that their concerns come from a real place, followed by a clear reframe
+
+#### Instinctively Hostile/Unreachable
+
+- Actual ideological allies who disagree with specifics
+  - e.g., advocates of other homeschool philosophies
+  - don't want to dismiss but also can't please so brief, respectful "this is not that" is maybe all we can or should do
+- Anti-audience
+  - institutional defenders
+  - culture warriors
+  - define them, give short and honest response and let them go
+
+##### Messages to the hostile, especially the culture warriors
+
+- the people who use children's welfare as cover for maintaining current control processes
+- the "but what about socialization" crowd
+- the "not everyone can homeschool so no-one should be allowed to" crowd
+
+These people are not engaging in good faith. The temptation is to engage them but the better move is to name the pattern once, clearly, adn then refuse to let it set the agenda. E.g., "There are legitimate concerns about access and equity. There are also illegitimate uses of these concerns to foreclose alternatives that challenge institutional power. This work addresses the former honestly and declines to engage with the latter."
+
+#### How Much Space for Each Audience?
+
+- Written entirely for the core audience, in their language, addressing their needs
+- The cautious-but-interested parent benefits from the same without any special accommodation: the rigour and non-judgmental tone are doing the work
+- Professional periphery and sympathetic critics are served by the quality of the argument itself
+- Anti-audience - a paragraph at most
+
 
 Tentative Structure for Actual Background Doc
 =============================================
 
+Summary
+-------
 
+1. Children are Whole People -> Obvious But People Seldom Follow Through
+2. Given 1, childhood is not preparation for life it *is* life
+3. The point of a child's day is not to learn nor be shaped into a competent adult but to participate in the world at their current scale. And the goal, if there is one, is that the child experiences themself as someone whose actions alter the world
+
+- Somewhere in here goes the fiduciary aspect
+- Somewhere in here is the point that this is not merely a moral claim to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
 
 1: The Provocation: Everyone Agrees Children Are Whole People, Almost No One Acts Like It
 -----------------------------------------------------------------------------------------
 
 
 ### Children Are Whole People With Full Moral Worth Is Not A Truism
-
 
 Everyone thinks they already agree with this position. It's the kind of claim that produces immediate assent. But once you actually follow that reasoning to its natural conclusion, rather than treating it as just a bumper-sticker slogan, it detonates a surprising amount of what is often taken for granted about education, parenting, authority, efficiency, and even love.
 
@@ -402,3 +447,9 @@ Everyday Questions
 - What would make today significant?
 - What could they build, fix, serve, or shape?
 
+
+Research List
+=============
+
+- Evidence from developmental psychology that standardized institutional environments suppress intrinsic motivation, reduce autonomy, produce dependence on external validation (and authority)(Alfie Kohn Punished by Rewards might have something to say here?) -> the harm is structural and would persist even under ideal conditions and intentions
+- Agency as muscle that can atrophy

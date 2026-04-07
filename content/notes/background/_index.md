@@ -15,266 +15,9 @@ Some Early Questions
 
 These are mostly notes to self to assist with developing the argument and framework, but elements might be extracted later for a brief bio or whatever.
 
-### Why Me?
+### Why Me? (etc)
 
-I'm especially concerned with:
-- dignity
-- agency
-- creation rather than consumption
-- people being allowed to become fully themselves instead of being forced into institutional shapes
-- meaning as something lived, not merely theorized
-- coherence between what we say we value and what we actually structure our lives around
-
-I care about *fertile systems*, about creating environments where something genuinely new, valuable and autonomous can emerge without being distorted, exploited, or crushed by existing power structures. About stewardship rather than control.
-
-I'm not trying to shape outcomes but conditions.
-
-I'm not anti-learning, I'm anti-systemic flattening. I'm opposed to institutions that optimize for compliance, standardization, and throughput at the expense of agency, curiosity, and depth.
-
-I believe in:
-- systems that reward exploration over obedience
-- environments that trust families
-
-Unschooling is fundamentally the flavour of established homeschooling that I find most compelling and consistent with the ideals of homeschooling. But even I sometimes find it so unstructured as to be paralyzing (and pity those, like my long-suffering wife, who leans more towards the school-at-home conception of homeschooling). It seems like there's a gap for something that helps parents who are sympathetic to unschooling find a way to navigate it while at the same time having something to help assess progress, especially when the child themselves is feeling directionless.
-
-It's been said that "unschooling without any scaffolding can feel like being dropped in the middle of the ocean and told 'swim wherever you like'. That's freedom, but it's also terrifying. Some children thrive in that, some freeze, some drift, and many oscillate between bursts of curiosity and long stretches of disorientation. Parents feel it too: am I honoring autonomy, or am I abandoning guidance?"
-
-My contribution, to the extent that I'm bringing something to this discussion, is not new *content* but *coherence across domains*:
-- bringing metaphysics into parenting
-- existential dignity into education
-- structure into freedom
-- seriousness into play
-- compassion into rigour
-
-### What Can I Contribute?
-
-Something like:
-- building resource networks for homeschoolers
-- creating curricula that emphasize coherence, philosophy, and wonder
-- developing platforms that connect families seeking depth
-- documenting what works, so other can copy or build upon without reinvention
-- acting as a translator between "outsiders" and homeschooling families to reduce suspicion
-
-All look like *stewardship*: building gardens, not factories.
-
-### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
-
-Here's one: How do children live meaningful lives *now*, not later?
-
-Children are:
-- present beings, not merely future (or unfinished) adults
-- full moral agents
-    - they care deeply,
-    - they suffer real losses,
-    - they experience pride, shame, loyalty, betrayal, wonder...
-    - they form values,
-    - they notice (and experience) injustice,
-    - they want to **matter**
-- contributors, not trainees
-- creators, not vessels
-
-As beings with full, present moral worth, then:
-- suffering cannot be justified merely by future benefit
-- boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good - discuss later)
-- meaning cannot be deferred indefinitely
-- education must answer to a child's lived experience now
-
-Consider moral agency vs responsibility vs authority
-
-Agency, which we regard as morally and developmentally prior to learning, does not mean:
-- radical autonomy,
-- total freedom,
-- absence of structure,
-- self-sufficiency
-But rather *the lived experience of being able to initiate action and see it matter in the world*.
-
-Children deserve to experience themselves as contributors to reality, not merely as future applicants
-
-**A life of significance**
-
-Learning without agency is morally thin because it trains:
-- passivity
-- compliance
-- external validation
-
-But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
-- organizes attention,
-- sustains motivation,
-- integrates memory,
-- makes difficulty meaningful.
-So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
-
-Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
-
-### What is the Framework *For*?
-
-To answer questions like:
-
-- What do we do when the child doesn't know what to do?
-- How do we measure progress without killing freedom?
-- (And what constitutes progress?)
-- How do we protect *creation* from becoming *obligation*?
-- How do we explain this to skeptics?
-- How do we know *we're* not just being lazy or chaotic?
-
-To serve goals such as:
-
-- preserving (and maximising) agency
-- providing orientation
-- making growth visible → and note that we shouldn't want to be asking "Are you learning?" so much as "Are you experiencing your own unfolding?"
-- build fluency in things like:
-  - self-perception
-  - internal navigation
-  - gentle commitment
-  - reversible action
-  - trusting emergence
-
-### What is the Moral Vision?
-
-- What is a child?
-  - full moral agents
-    - they care deeply,
-    - they suffer real losses,
-    - they experience pride, shame, loyalty, betrayal, wonder...
-    - they form values,
-    - they notice (and experience) injustice,
-    - they want to **matter**
-  - a *person* whose scale is different, not whose dignity is lower
-- What is childhood for?
-  - it is for living, and for progressively expanding the scope of that life. It is not about preparation, it is about participation.
-  - childhood is an *end* not a *means*.
-
-- Children are already living real lives.
-- Childhood is not instrumental.
-- Agency precedes instruction.
-- Meaning comes before measurement.
-- Creation matters more than consumption.
-
-An important aspect of a child-respecting education or development system, something that even Unschooling sometimes ignores or under-appreciates, is that education is a system that takes 15 to 20 years of a young person's life (the years when they have the most imagination, energy, creativity, risk tolerance, free time, neuroplasticity, emotional intensity, novelty-seeking, and openness) and promises in exchange to give them knowledge. Even the best homeschooling systems implicitly make this trade. And perhaps it is a poor bargain. Perhaps more focus during those years should be on supporting the young person to accomplish something they care about, not in terms of credentials, but in terms of putting something into the world. Adding to the stock of the world's wealth (for want of a better term) and building something for and of oneself. "Learning", as popularly understood, is at most a side-effect of that.
-
-I feel like there's already quite a lot of child-development and educational books that talk about the importance of children doing real work, not merely artificial exercises. But these are almost always presented (intentionally or not), and even in the homeschooling literature, as incidental: by letting the child do something real they are learning more authentically the thing they are supposed to be learning. For example, let the child help with baking to help them learn fractions, or run a lemonade stand so that they can learn something something money. I think where I'm feeling a difference of emphasis if not in substance is that the work is actually the point and the learning is almost incidental. It's more important for children to *be* part of the world and to *do* something real than to learn (and by happy coincidence, learning naturally follows). I think a lot of the leading writers in the field, like John Holt and Gatto, *get* this point, sometimes even making it explicit, but the structure of the book causes a drift from this essential point towards a more conventional thesis about learning.
-
-The child exists as a participant in the world.
-Learning exists to support that participation.
-This is not semantic. It is ontological.
-In this framing, work is not valuable because it teaches.
-Work is valuable because it is *work*.
-Because it connects the child to causality, responsibility, and consequence.
-Because it says: "You are not waiting to matter."
-Learning becomes a side-effect of dignity.
-
-This thesis implies things most people don’t want to say out loud:
-- That schooling has displaced life.
-- That children are being denied participation, not merely miseducated.
-- That the harm is not primarily intellectual but existential.
-- That "preparing for adulthood" has become an excuse to postpone personhood.
-
-Learning is not the goal. This doesn't mean:
-- learning doesn't matter
-- knowledge is optional
-- skills are incidental
-- education should be indifferent to competence
-It means that learning is not the *telos* of childhood.
-
-When learning becomes the goal, everything else becomes instrumental, and this corrupts the child's relationship to the world (and to themselves):
-- curiosity becomes a tool (if it survives at all),
-- projects become vehicles,
-- interests become leverage
-
-
-**Adding to the world is how humans discover who they are**
-
-I don't want to get ahead of myself but imagine a society, or even just a community, where it was normal for people not to be passive, but to instinctively regard themselves as masters of their own destinies, feeling capable and empowered (not in the sense of being given permission, but in the sense that agency belongs to them as a natural part of being fully human) to build their lives, and take care of their neighbours.
-
-
-
-#### Why it Matters
-
-A child who grows up experiencing herself as a cause:
-- doesn't need to be coerced to learn
-- doesn't collapse when structures change
-- doesn't outsource her worth to institutions
-- doesn't confuse obedience with goodness
-- doesn't equate value with performance
-
-She becomes:
-- internally motivated
-- psychologically sturdy
-- creatively alive
-- morally serious
-- difficult to dominate
-
-
-#### Examples?
-
-David Sarnoff (example from Weapons of Mass Instruction): "...He was able to move so rapidly because he had a chance to think about serious matters before his 8th birthday, to live a significant life before he was 10. He got a chance to add value to his family and community before he was 15..."
-
-Not being sequestered into a preparatory holding pen called "childhood" but to be allowed to touch the actual machinery of life while still young.
-
-"Think about serious matters" doesn't mean abstract philosophy homework, it means engaging with real problems.
-
-"Live a significant life before he was 10" doesn't mean achievement, it means meaning. It means mattering.
-
-"Add value to his family and community before he was 15": this is the most important part. That is creation-first development in a single phrase. Not "learn how to someday be useful" but *be useful now*, in a way that is appropriate to a child's scale and capacity.
-
-A child who:
-- helps cook,
-- helps build,
-- helps fix,
-- helps care,
-- helps plan,
-- helps decide,
-is not being burdened. They are being inducted into reality.
-
-And this enables a future of moving fast and confidently because they have already lived. They are not tentative, they are not inculcated into needing permission to act. They do not experience the world as a separate place owned by adults and institutions. They have already tasted authorship.
-
-And remember, even if Sarnoff had never become president of RCA, or done anything else of note, he had the experience of living a life of meaning *for himself*. That has sufficient value in its own right, not just what it enables for the future.
-
-
-
-
-### What Common Parent Experiences Are We Addressing?
-
-- "My kid is bored but not lazy"
-- "My child is bright but seems disconnected"
-- "School feels hollow but I can't articulate why"
-- "Homeschooling feels freer but sometimes directionless"
-- "I want my child to matter, not just perform"
-
-- The sense that conventional schooling is hollowing out curiosity, agency, and meaning
-- The feeling that many homeschoolers experince that unschooling (or whatever) is morally right but practically disorienting
-- (from kids) the feeling, even if inarticulable, that they are being *prepared for life* instead of being allowed to *live one*
-- A quiet grief from adults that their own sense of significance and meaning was deferred until it withered
-
-
-
-### On "Learning"
-
-Under this framework, learning isn't the point. But (the right) learning is valuable.
-
-**Knowledge is inert without purpose**
-
-When we invert the relationship between learning and purpose (instead of "learn alegebra so you can one day do..." we say, "you want to build *X*? Let's learn what you need..."):
-- learning becomes instrumentally meaningful
-- effort becomes voluntary
-- difficulty becomes justified
-- competence becomes visible
-- identity forms around *agency*, not compliance
-
-The child ceases to be a *student*, a vessel for knowledge, and instead is a *creator*, a *maker*, a *contributor*.
-
-
-**Creation-first development is not an early-childhood stance that gives way to instrumental reasoning later. It is a lifelong orientation toward agency and meaning. What changes with age is not the moral claim, but the sophistication of the ways institutions attempt to absorb agency back into instrumental ends.**
-
-
-#### "Stealth Instrumentalism" as Teleological Laundering
-
-And I’m also not making the sometimes-heard case of “don’t do X for rewards, so X for itself and rewards will follow” (which is a sort of stealth instrumental attitude). I’m saying, “do X because doing X is how you participate in the world and how you be your best self. Rewards may follow or they may not, it’s not part of the calculus”.
-
-#### Nor "Do What You Love"
-
-It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
-
+See [About Me]({{< ref "notes/about_me.md" >}})
 
 ### What is the Target Audience and How Should We Address Them?
 
@@ -416,8 +159,194 @@ If you truly accept the premise, then many ordinary practices become ethically q
 
 Of course, this doesn't automatically tell you what to do instead but it does reveal that "business as usual" is not morally innocent.
 
+
+### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
+
+Here's one: How do children live meaningful lives *now*, not later?
+
+Children are:
+- present beings, not merely future (or unfinished) adults
+- full moral agents
+    - they care deeply,
+    - they suffer real losses,
+    - they experience pride, shame, loyalty, betrayal, wonder...
+    - they form values,
+    - they notice (and experience) injustice,
+    - they want to **matter**
+- contributors, not trainees
+- creators, not vessels
+
+As beings with full, present moral worth, then:
+- suffering cannot be justified merely by future benefit
+- boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good - discuss later)
+- meaning cannot be deferred indefinitely
+- education must answer to a child's lived experience now
+
+Consider moral agency vs responsibility vs authority
+
+Agency, which we regard as morally and developmentally prior to learning, does not mean:
+- radical autonomy,
+- total freedom,
+- absence of structure,
+- self-sufficiency
+But rather *the lived experience of being able to initiate action and see it matter in the world*.
+
+Children deserve to experience themselves as contributors to reality, not merely as future applicants
+
+**A life of significance**
+
+Learning without agency is morally thin because it trains:
+- passivity
+- compliance
+- external validation
+
+But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
+- organizes attention,
+- sustains motivation,
+- integrates memory,
+- makes difficulty meaningful.
+So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
+
+Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
+
+
+### What is the Moral Vision?
+
+- What is a child?
+  - full moral agents
+    - they care deeply,
+    - they suffer real losses,
+    - they experience pride, shame, loyalty, betrayal, wonder...
+    - they form values,
+    - they notice (and experience) injustice,
+    - they want to **matter**
+  - a *person* whose scale is different, not whose dignity is lower
+- What is childhood for?
+  - it is for living, and for progressively expanding the scope of that life. It is not about preparation, it is about participation.
+  - childhood is an *end* not a *means*.
+
+- Children are already living real lives.
+- Childhood is not instrumental.
+- Agency precedes instruction.
+- Meaning comes before measurement.
+- Creation matters more than consumption.
+
+An important aspect of a child-respecting education or development system, something that even Unschooling sometimes ignores or under-appreciates, is that education is a system that takes 15 to 20 years of a young person's life (the years when they have the most imagination, energy, creativity, risk tolerance, free time, neuroplasticity, emotional intensity, novelty-seeking, and openness) and promises in exchange to give them knowledge. Even the best homeschooling systems implicitly make this trade. And perhaps it is a poor bargain. Perhaps more focus during those years should be on supporting the young person to accomplish something they care about, not in terms of credentials, but in terms of putting something into the world. Adding to the stock of the world's wealth (for want of a better term) and building something for and of oneself. "Learning", as popularly understood, is at most a side-effect of that.
+
+I feel like there's already quite a lot of child-development and educational books that talk about the importance of children doing real work, not merely artificial exercises. But these are almost always presented (intentionally or not), and even in the homeschooling literature, as incidental: by letting the child do something real they are learning more authentically the thing they are supposed to be learning. For example, let the child help with baking to help them learn fractions, or run a lemonade stand so that they can learn something something money. I think where I'm feeling a difference of emphasis if not in substance is that the work is actually the point and the learning is almost incidental. It's more important for children to *be* part of the world and to *do* something real than to learn (and by happy coincidence, learning naturally follows). I think a lot of the leading writers in the field, like John Holt and Gatto, *get* this point, sometimes even making it explicit, but the structure of the book causes a drift from this essential point towards a more conventional thesis about learning.
+
+The child exists as a participant in the world.
+Learning exists to support that participation.
+This is not semantic. It is ontological.
+In this framing, work is not valuable because it teaches.
+Work is valuable because it is *work*.
+Because it connects the child to causality, responsibility, and consequence.
+Because it says: "You are not waiting to matter."
+Learning becomes a side-effect of dignity.
+
+This thesis implies things most people don’t want to say out loud:
+- That schooling has displaced life.
+- That children are being denied participation, not merely miseducated.
+- That the harm is not primarily intellectual but existential.
+- That "preparing for adulthood" has become an excuse to postpone personhood.
+
+Learning is not the goal. This doesn't mean:
+- learning doesn't matter
+- knowledge is optional
+- skills are incidental
+- education should be indifferent to competence
+It means that learning is not the *telos* of childhood.
+
+When learning becomes the goal, everything else becomes instrumental, and this corrupts the child's relationship to the world (and to themselves):
+- curiosity becomes a tool (if it survives at all),
+- projects become vehicles,
+- interests become leverage
+
+
+**Adding to the world is how humans discover who they are**
+
+I don't want to get ahead of myself but imagine a society, or even just a community, where it was normal for people not to be passive, but to instinctively regard themselves as masters of their own destinies, feeling capable and empowered (not in the sense of being given permission, but in the sense that agency belongs to them as a natural part of being fully human) to build their lives, and take care of their neighbours.
+
+
+
+#### Why it Matters
+
+A child who grows up experiencing herself as a cause:
+- doesn't need to be coerced to learn
+- doesn't collapse when structures change
+- doesn't outsource her worth to institutions
+- doesn't confuse obedience with goodness
+- doesn't equate value with performance
+
+She becomes:
+- internally motivated
+- psychologically sturdy
+- creatively alive
+- morally serious
+- difficult to dominate
+
+
+#### Examples?
+
+David Sarnoff (example from Weapons of Mass Instruction): "...He was able to move so rapidly because he had a chance to think about serious matters before his 8th birthday, to live a significant life before he was 10. He got a chance to add value to his family and community before he was 15..."
+
+Not being sequestered into a preparatory holding pen called "childhood" but to be allowed to touch the actual machinery of life while still young.
+
+"Think about serious matters" doesn't mean abstract philosophy homework, it means engaging with real problems.
+
+"Live a significant life before he was 10" doesn't mean achievement, it means meaning. It means mattering.
+
+"Add value to his family and community before he was 15": this is the most important part. That is creation-first development in a single phrase. Not "learn how to someday be useful" but *be useful now*, in a way that is appropriate to a child's scale and capacity.
+
+A child who:
+- helps cook,
+- helps build,
+- helps fix,
+- helps care,
+- helps plan,
+- helps decide,
+is not being burdened. They are being inducted into reality.
+
+And this enables a future of moving fast and confidently because they have already lived. They are not tentative, they are not inculcated into needing permission to act. They do not experience the world as a separate place owned by adults and institutions. They have already tasted authorship.
+
+And remember, even if Sarnoff had never become president of RCA, or done anything else of note, he had the experience of living a life of meaning *for himself*. That has sufficient value in its own right, not just what it enables for the future.
+
+
+
+
+
+
 2: The Ontological Claim: The Child is a Participant, Not a Learner Being Prepared
 ----------------------------------------------------------------------------------
+
+### On "Learning"
+
+Under this framework, learning isn't the point. But (the right) learning is valuable.
+
+**Knowledge is inert without purpose**
+
+When we invert the relationship between learning and purpose (instead of "learn alegebra so you can one day do..." we say, "you want to build *X*? Let's learn what you need..."):
+- learning becomes instrumentally meaningful
+- effort becomes voluntary
+- difficulty becomes justified
+- competence becomes visible
+- identity forms around *agency*, not compliance
+
+The child ceases to be a *student*, a vessel for knowledge, and instead is a *creator*, a *maker*, a *contributor*.
+
+
+**Creation-first development is not an early-childhood stance that gives way to instrumental reasoning later. It is a lifelong orientation toward agency and meaning. What changes with age is not the moral claim, but the sophistication of the ways institutions attempt to absorb agency back into instrumental ends.**
+
+
+#### "Stealth Instrumentalism" as Teleological Laundering
+
+And I’m also not making the sometimes-heard case of “don’t do X for rewards, so X for itself and rewards will follow” (which is a sort of stealth instrumental attitude). I’m saying, “do X because doing X is how you participate in the world and how you be your best self. Rewards may follow or they may not, it’s not part of the calculus”.
+
+#### Nor "Do What You Love"
+
+It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
+
+
 
 3: The Practical Implication: Creation First, Learning As a Side-Effect of Dignity
 ----------------------------------------------------------------------------------

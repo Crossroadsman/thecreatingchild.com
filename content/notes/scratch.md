@@ -107,3 +107,57 @@ HOW? → Section 2 and Section 3
 -------------------------------
 
 
+Other Stuff
+===========
+
+Neurodivergent-specific Items (if any)
+--------------------------------------
+
+ for whatever reason or reasons there has been an explosion of kids in the last decade or two who are neurodivergent* (there’s also the categories of people who would have qualified as special needs back in my day, who have more traditional cognitive or physical disabilities, but that might be a specialist audience I’m not equipped to talk to). These seem to represent a significant and growing proportion of homeschoolers and homeschool-considering, and I think what I have to say is worthwhile to them with only minor adjustments (if any).
+
+* I, myself, have pretty severe executive-function (no hyperactivity) adhd and I could just about survive in a traditional school, but things like autism and similar conditions seem like traditional schooling would be much harder still.
+
+agency looks different for different people, and that institutional harm comes precisely from forcing diverse humans through uniform structures. A child with autism who can't tolerate a classroom isn't failing the system — the system is failing to recognize that its structure is the problem, not the child.
+
+
+
+Other Questions to Think About
+==============================
+
+- What do I believe education is for?
+- What do I reject and why?
+- What do I notice working?
+- What feels wrong?
+- What children actually need in moments of confusion
+- What creation looks like at different ages (5, 8, 10, etc)
+- What dignity looks like at different ages
+- What agency looks like at those ages
+- How can this change a child's day?
+- What would this look like in... a kitchen? a garage? a garden? etc
+- How would this make a life more real?
+
+
+Everyday Questions
+==================
+
+- Where is my child adding value? Where does my child *want* to add value?
+- What feels real to them right now?
+- What would make today significant?
+- What could they build, fix, serve, or shape?
+
+
+Research List
+=============
+
+- Evidence from developmental psychology that standardized institutional environments suppress intrinsic motivation, reduce autonomy, produce dependence on external validation (and authority)(Alfie Kohn Punished by Rewards might have something to say here?) -> the harm is structural and would persist even under ideal conditions and intentions
+- Agency as muscle that can atrophy
+
+
+
+
+
+
+
+**Adding to the world is how humans discover who they are**
+
+I don't want to get ahead of myself but imagine a society, or even just a community, where it was normal for people not to be passive, but to instinctively regard themselves as masters of their own destinies, feeling capable and empowered (not in the sense of being given permission, but in the sense that agency belongs to them as a natural part of being fully human) to build their lives, and take care of their neighbours.

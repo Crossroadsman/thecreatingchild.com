@@ -3,6 +3,11 @@ date = '2026-02-08T08:55:14-08:00'
 title = 'Substance'
 +++
 
+
+NTD: We have lots of taxonomies here, let's pick one that resonates and fits most clearly with the rest of the work, and then build an appendix to accommodate the others (and some logical structure to help parents navigate to the most appropriate taxonomy for their lived experience without needing to browse through all of them)
+ I think there are an infinite number of taxonomies because there are an infinite number of axes along which choices can be made. So I think you’re right that I need to identify which ones are most central and flow most naturally from my premises and then some number of alternatives could form an appendix or additional resources section that could be organized on some way that other parents, finding their own children need different choice architecture than mine, can search for the most suitable one or few for them, or experiment with a few different ones. At least, that’s where my intuitions are leading.
+
+
 Overview
 ========
 

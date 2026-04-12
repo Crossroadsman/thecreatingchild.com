@@ -156,6 +156,16 @@ Research List
 
 
 
+Bits and Pieces
+===============
+
+"A meeting, living, doing place" (see e.g., Teach Your Own Ch. 5) and cf "not primarily a place for children". What are the pros and cons of places that are designed *for* children to maximise their agency and places that are built without regard to age where children can observe, join, assist adults in real endeavours?
+
+The importance of play (see, e.g., Teach Your Own Ch. 6)
+
+
+
+
 
 
 **Adding to the world is how humans discover who they are**

@@ -4,8 +4,11 @@ title = 'Substance'
 +++
 
 
-NTD: We have lots of taxonomies here, let's pick one that resonates and fits most clearly with the rest of the work, and then build an appendix to accommodate the others (and some logical structure to help parents navigate to the most appropriate taxonomy for their lived experience without needing to browse through all of them)
- I think there are an infinite number of taxonomies because there are an infinite number of axes along which choices can be made. So I think you’re right that I need to identify which ones are most central and flow most naturally from my premises and then some number of alternatives could form an appendix or additional resources section that could be organized on some way that other parents, finding their own children need different choice architecture than mine, can search for the most suitable one or few for them, or experiment with a few different ones. At least, that’s where my intuitions are leading.
+
+
+
+
+
 
 
 Overview
@@ -73,129 +76,55 @@ Instead of subjects we might describe domains of experience, like:
 - worldhood (history, culture, geography, power, institutions)
 
 
-Components
-==========
+What Does This Look Like in Practice
+------------------------------------
 
+Not productivity theatre.
 
-Dimensions
-----------
+- long-running personal projects
+- community-embedded work
+- collaborative creations
+- real products
+- real audiences
+- real users
+- real consequences
+- real pride
 
-What are the dimensions of a child's engagement with the world?
-- curiosity
-- agency
-- solidarity
-- mastery
-- play
-- meaning-making
-- responsibility
-
-
-Modes
------
-
-What are the modes a day can take?
-- exploration
-- rest
-- repetition
-- invention
-- social connection
-- absorption
-- chaos
-
-
-Non-Curriculum Map
-------------------
-
-Explicitly name what fills the curriculum slot.
-Instead of math, science, English, map:
-- symbolic play
-- narrative construction
-- quantitative intuition
-- causal reasoning
-- tool use
-- social modeling
-- aesthetic experimentation
-
-Show how these emerge naturally through creation → Reassures that nothing essential is being neglected, only reframed.
+Adults are:
+- translators
+- safety nets
+- skill suppliers
+- ethical guides
+- logistical support
 
 
 
-Engagement States
+Components: Temp Restructuring
+===============================
+
+NTD: We have lots of taxonomies here, let's pick one that resonates and fits most clearly with the rest of the work, and then build an appendix to accommodate the others (and some logical structure to help parents navigate to the most appropriate taxonomy for their lived experience without needing to browse through all of them)
+ I think there are an infinite number of taxonomies because there are an infinite number of axes along which choices can be made. So I think you’re right that I need to identify which ones are most central and flow most naturally from my premises and then some number of alternatives could form an appendix or additional resources section that could be organized on some way that other parents, finding their own children need different choice architecture than mine, can search for the most suitable one or few for them, or experiment with a few different ones. At least, that’s where my intuitions are leading.
+
+We're going to start by reorganizing all the taxonomies around three functions:
+- preserving agency
+- providing orientation
+- making growth visible
+
+We'll move every taxonomy, tool, framework under whichever heading it most serves (we can cross-ref if a particular item serves multiple)
+- => This makes it obvious which of the functions are well-served and which are too thin;
+- => Also makes redundancies between taxonomies visible
+
+
+
+
+
+Preserving Agency
 -----------------
 
-Offer a taxonomy or small vocabulary of recognizable states, e.g.:
-- absorbed creation (building, inventing, pretending, drawing, structuring)
-- exploratory wandering (trying, sampling, touching, abandoning)
-- skill deepening (repeating, refining, practicing)
-- social meaning-making (role-play, storytelling, negotiation)
-- rest/incubation (boredom, lying around, doing "nothing")
-- distress/overload (dysregulation, frustration, collapse)
+### Choice Stack
 
-These can be less formal, such as "do you feel...":
-- buzzy or flat?
-- restless or heavy?
-- like you want movement or stillness?
-- curious or tired?
-- in need of comfort or a challenge?
-- you want noise or quiet?
+**Might also be relevant to *Providing Orientation* **
 
-Give guidance for each:
-- what it means
-- what not to interrupt
-- when to support
-- when to step back
-- when to intervene
-
-It tells parents: "This is intelligible. You are not floating in chaos"
-
-
-Modes
------
-
-E.g.,
-- body or head
-- make something or explore something
-- predictable or surprising
-- something already good at or something new
-- follow instructions or invent your own
-
-
-Shapes
-------
-
-E.g.,
-- short or long
-- alone or together
-- messy or tidy
-- serious or playful
-
-
-Rhythms
--------
-
-Giving time shape without schedules. 
-Describe:
-- daily rhythms (energy rises/falls)
-- weekly rhythms
-- seasonal rhythms
-- attention cycles
-Predictability without rigidity.
-
-
-
-Signals
--------
-
-What are the signals something is working?
-- longer attention
-- voluntary return
-- increased confidence
-- spontaneous elaboration
-- resilience after frustration
-
-
-Choice Stack
-------------
 
 In situations of uncertainty, consider making the decision grammar a stack, maybe in the form of:
 
@@ -204,8 +133,7 @@ State → Mode → Shape → Activity
 The earlier stages are easier for a child to identify and articulate and help to whittle down or expose appropriate choices down the stack.
 
 
-Role Redefinitions
-------------------
+### Role Redefinitions
 
 Not: teacher/instructor/manager/evaluator
 but:
@@ -224,9 +152,7 @@ Contrast:
 | Control Behaviour | → Protect Agency      |
 
 
-
-Substitutes to School Structures
---------------------------------
+### Substitutes to School Structures
 
 School provides structures:
 - temporal (days, weeks, terms/semesters, years)
@@ -265,8 +191,107 @@ Instead of lesson plans:
 
 
 
-Environmental Design Principles
--------------------------------
+Providing Orientation
+---------------------
+
+### Dimensions
+
+**Might also be relevant to *Preserving Agency* **
+
+What are the dimensions of a child's engagement with the world?
+- curiosity
+- agency
+- solidarity
+- mastery
+- play
+- meaning-making
+- responsibility
+
+
+### Modes
+
+**Might also be relevant to *Preserving Agency* **
+
+What are the modes a day can take?
+- exploration
+- rest
+- repetition
+- invention
+- social connection
+- absorption
+- chaos
+
+### Engagement States
+
+**Might also be relevant to *Preserving Agency* **
+
+Offer a taxonomy or small vocabulary of recognizable states, e.g.:
+- absorbed creation (building, inventing, pretending, drawing, structuring)
+- exploratory wandering (trying, sampling, touching, abandoning)
+- skill deepening (repeating, refining, practicing)
+- social meaning-making (role-play, storytelling, negotiation)
+- rest/incubation (boredom, lying around, doing "nothing")
+- distress/overload (dysregulation, frustration, collapse)
+
+These can be less formal, such as "do you feel...":
+- buzzy or flat?
+- restless or heavy?
+- like you want movement or stillness?
+- curious or tired?
+- in need of comfort or a challenge?
+- you want noise or quiet?
+
+Give guidance for each:
+- what it means
+- what not to interrupt
+- when to support
+- when to step back
+- when to intervene
+
+It tells parents: "This is intelligible. You are not floating in chaos"
+
+### Modes
+
+**Might also be relevant to *Preserving Agency* **
+
+E.g.,
+- body or head
+- make something or explore something
+- predictable or surprising
+- something already good at or something new
+- follow instructions or invent your own
+
+
+### Shapes
+
+**Might also be relevant to *Preserving Agency* **
+
+E.g.,
+- short or long
+- alone or together
+- messy or tidy
+- serious or playful
+
+
+### Rhythms
+
+**Might also be relevant to *Preserving Agency* **
+
+Giving time shape without schedules. 
+Describe:
+- daily rhythms (energy rises/falls)
+- weekly rhythms
+- seasonal rhythms
+- attention cycles
+Predictability without rigidity.
+
+
+
+
+### Environmental Design Principles
+
+**Might also be relevant to *Preserving Agency* **
+
 
 Instead of lesson plans, provide design constraints:
 - material richness beats instruction
@@ -285,31 +310,33 @@ Outline categories:
 "If the environment is doing most of the work, the parent doesn't need to."
 
 
-What Does This Look Like in Practice
-------------------------------------
-
-Not productivity theatre.
-
-- long-running personal projects
-- community-embedded work
-- collaborative creations
-- real products
-- real audiences
-- real users
-- real consequences
-- real pride
-
-Adults are:
-- translators
-- safety nets
-- skill suppliers
-- ethical guides
-- logistical support
 
 
-Bits and Pieces
-===============
+Making Growth Visible
+---------------------
 
-"A meeting, living, doing place" (see e.g., Teach Your Own Ch. 5) and cf "not primarily a place for children". What are the pros and cons of places that are designed *for* children to maximise their agency and places that are built without regard to age where children can observe, join, assist adults in real endeavours?
+### Non-Curriculum Map
 
-The importance of play (see, e.g., Teach Your Own Ch. 6)
+Explicitly name what fills the curriculum slot.
+Instead of math, science, English, map:
+- symbolic play
+- narrative construction
+- quantitative intuition
+- causal reasoning
+- tool use
+- social modeling
+- aesthetic experimentation
+
+Show how these emerge naturally through creation → Reassures that nothing essential is being neglected, only reframed.
+
+
+### Signals
+
+What are the signals something is working?
+- longer attention
+- voluntary return
+- increased confidence
+- spontaneous elaboration
+- resilience after frustration
+
+

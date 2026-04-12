@@ -21,17 +21,23 @@ See [About Me]({{< ref "notes/about_me.md" >}})
 ### Instinctively Sympathetic/Supportive
 
 - Parents already homeschooling or considering it (**this is the core audience**) (especially unschoolders)
-  - these don't need to be convinced, they need to be equipped
+  - these don't need to be convinced, they need to be equipped: a framework that allows them to trust what they are doing/want to do and language for explaining to others
+  - often these people have an intuition that something is wrong, perhaps fundamentally, with conventional education but can't articulate exactly what
   - think also about the subgroup where one parent is already sympathetic but the other parent has mroe traditional instincts
+  - these are my people and the document should be written primarily for them
 - Parents who are uncomfortable with conventional schooling but haven't made a leap (**adjacent audience?**)
   - the fiduciary aspect might be especially persuasive here
 
 ### Neutral
 
-- Paediatricians, child psychologists, social workers, extended family members, some government, some educators, judges
+- Paediatricians, child psychologists, social workers, extended family members, some government, some educators, judges, parents who are conventionally schooling their children but uneasy about it (maybe kid is struggling, maybe thriving academically but becoming anxious or hollow (losing their joy, sense of curiosity, etc)); teachers who went into the profession because they care about children are slowly being crushed by the institutional reality
   - not hostile but operating from institutional assumptions
   - worry about socialization, benchmarks, and abuse behind closed doors
   - these people don't need a lot of space in the doc but a brief acknowledgment that their concerns come from a real place, followed by a clear reframe
+
+### Skeptical but honest
+- People who genuinely believe in structured education and have thoughtful reasons for it. They'll read your work and push back on the developmental claims, the reading question, the "what about socialization" angle. They're not hostile, they're just unconvinced. For this audience, the fiduciary framing is crucial because it shows you're not advocating abandonment. The reading and numeracy acknowledgment matters because it shows intellectual honesty. You don't need to win them over entirely — you need them to finish reading and think "I disagree with some of this but it's serious." That's enough, because serious disagreement is the beginning of influence.
+
 
 ### Instinctively Hostile/Unreachable
 
@@ -39,8 +45,8 @@ See [About Me]({{< ref "notes/about_me.md" >}})
   - e.g., advocates of other homeschool philosophies
   - don't want to dismiss but also can't please so brief, respectful "this is not that" is maybe all we can or should do
 - Anti-audience
-  - institutional defenders
-  - culture warriors
+  - institutional defenders: education bureaucrats, teachers' unions, educational policy people, credentialist employers (their objection isn't philosophical, it's that this thesis, if taken seriously, delegitimizes the systems they run or depend on). We'll never reach them and shouldn't try. A response might be, "This work is for families, not institutions. If institutional education worked for your family, nothing here asks you to change. But for families who have found that it doesn't, this offers an alternative grounded in what their children actually need."
+  - culture warriors: the privilege police. The objection is ideological and largely performative. Response might be something like, "This work is for families who are in a position to act on it. That group is larger and more diverse than critics assume. For families who genuinely cannot, I hope this contributes to a vision of community structures that extend these possibilities more widely." Then move on, don't apologize, caveat, let their frames organize my argument
   - define them, give short and honest response and let them go
 
 #### Messages to the hostile, especially the culture warriors
@@ -57,6 +63,9 @@ These people are not engaging in good faith. The temptation is to engage them bu
 - The cautious-but-interested parent benefits from the same without any special accommodation: the rigour and non-judgmental tone are doing the work
 - Professional periphery and sympathetic critics are served by the quality of the argument itself
 - Anti-audience - a paragraph at most
+
+"The Background document is written for the core audience, with enough rigor to earn respect from the skeptical-but-honest audience, and with enough clarity that the adjacent-neutral audience can find their way in. The anti-audience gets acknowledged once, briefly, probably in an introduction or a short "who this is for" note, and then the rest of the document ignores them entirely.
+The most important practical implication: you should never write defensively. Every time you find yourself pre-empting an objection from someone who was never going to be persuaded anyway, you're weakening the document for the people who actually need it. Address honest objections — the reading question, the "isn't this just negligence" question, the developmental evidence question — because those come from your real audience. Let the bad-faith objections go."
 
 
 What Can I Work On?

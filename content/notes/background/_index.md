@@ -5,8 +5,8 @@ title = 'Background'
 
 
 
-Tentative Structure for Actual Background Doc
-=============================================
+Introduction
+============
 
 => *Short untitled opening goes here: the core thesis stated plainly, roughly a paragraph to half a page*
 
@@ -15,7 +15,7 @@ Children are not partial people. They are not becoming people. They are already 
 
 
 Children Are Whole People With Full Moral Worth Is Not A Truism
----------------------------------------------------------------
+===============================================================
 
 Everyone thinks they already agree with this position. It's the kind of claim that produces immediate assent. But once you actually follow that reasoning to its natural conclusion, rather than treating it as just a bumper-sticker slogan, it detonates a surprising amount of what is often taken for granted about education, parenting, authority, efficiency, and even love.
 
@@ -90,7 +90,8 @@ When learning becomes the goal, everything else becomes instrumental, and this c
 - interests become leverage
 
 
-#### Why it Matters
+Why it Matters
+--------------
 
 A child who grows up experiencing herself as a cause:
 - doesn't need to be coerced to learn
@@ -106,11 +107,8 @@ She becomes:
 - morally serious
 - difficult to dominate
 
-
-
-
-
-### What People Often Mean When They Accept This Claim
+What People Often Mean When They Accept This Claim
+--------------------------------------------------
 
 Most people *say* that children have full moral worth, but they often mean something much weaker, like:
 - children deserve protection from harm,
@@ -119,7 +117,8 @@ Most people *say* that children have full moral worth, but they often mean somet
 
 But what they often *do not* mean, and we emphatically *do* mean is: A child's current experience has intrinsic moral weight, not merely instrumental value.
 
-### Moral Deferral
+Moral Deferral
+--------------
 
 Modern societies often run heavily on what might be termed "moral deferral", which looks like:
 - adults impose constraints, boredom, stress, and loss of agency now
@@ -138,7 +137,8 @@ And not in a sentimental way, but *in the same moral register as adult suffering
 
 This doesn't mean "never frustrate a child" but it means that frustration demands justification beyond "I think this will be good for you later."
 
-### Moral Worth vs Competence
+Moral Worth vs Competence
+-------------------------
 
 One reason people might resist the full implications of moral worth is because they conflate moral worth with capacity. When they hear "children are full people" they might think that what is being said is:
 - children should decide everything,
@@ -149,11 +149,12 @@ But this is a category error. Moral worth answers the question: "does my experie
 
 A child can lack competence and still possess full moral worth. Indeed, that's exactly what makes adults morally responsible *to* children rather than *over* them.
 
-### What Accepting Moral Worth Actually Commits You To
+What Accepting Moral Worth Actually Commits You To
+--------------------------------------------------
 
 If children have full moral worth, then several things follow:
 
-#### 1. You Cannot Treat Childhood As Disposable Time
+### 1. You Cannot Treat Childhood As Disposable Time
 
 Justifications like:
 - "This is just a phase"
@@ -163,7 +164,7 @@ Justifications like:
 
 rely on the idea that childhood is morally discounted. If it isn't then childhood must be lived, not merely endured.
 
-#### 2. You Must Justify Coercion, Not Assume It
+### 2. You Must Justify Coercion, Not Assume It
 
 Coercion will still occur. Limits will be set and structure will be imposed. But Coercion is not self-justifying. You can't lean on:
 - "That's just how education works"
@@ -172,20 +173,21 @@ Coercion will still occur. Limits will be set and structure will be imposed. But
 
 You have to be willing to perform the cost-benefit analysis, at least to yourself.
 
-#### 3. You Must Take Children's Subjective Experience Seriously
+### 3. You Must Take Children's Subjective Experience Seriously
 
 It's not mere data to be managed nor noise around the "real" process but morally relevant in itself. This doesn't mean you automatically defer to it, but it does mean you always *reckon* with it.
 
 
-### Bits that belong in this h2 but need to be refactored
+Bits that belong in this h1 but need to be refactored
+-----------------------------------------------------
 
 
-#### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
+### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
 
 Here's one: How do children live meaningful lives *now*, not later?
 
 
-#### Examples?
+### Examples?
 
 David Sarnoff (example from Weapons of Mass Instruction): "...He was able to move so rapidly because he had a chance to think about serious matters before his 8th birthday, to live a significant life before he was 10. He got a chance to add value to his family and community before he was 15..."
 
@@ -216,7 +218,7 @@ And remember, even if Sarnoff had never become president of RCA, or done anythin
 
 
 Agency As a Muscle that Atrophies Through Lack of Use
------------------------------------------------------
+=====================================================
 
 
 
@@ -249,10 +251,8 @@ Agency is not a reward for compliance. It's not a privilege bestowed when master
 "This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
 
 
-
-
-
-#### The Impact on Conventional Education
+The Impact on Conventional Education
+------------------------------------
 
 If you truly accept the premise, then many ordinary practices become ethically questionable:
 - long hours of enforced passivity
@@ -263,13 +263,10 @@ If you truly accept the premise, then many ordinary practices become ethically q
 Of course, this doesn't automatically tell you what to do instead but it does reveal that "business as usual" is not morally innocent.
 
 
-
-
-
-
 This includes the Ontological Claim: The Child is a Participant, Not a Learner Being Prepared
 
-### On "Learning"
+On "Learning"
+-------------
 
 Under this framework, learning isn't the point. But (the right) learning is valuable.
 
@@ -288,16 +285,17 @@ The child ceases to be a *student*, a vessel for knowledge, and instead is a *cr
 **Creation-first development is not an early-childhood stance that gives way to instrumental reasoning later. It is a lifelong orientation toward agency and meaning. What changes with age is not the moral claim, but the sophistication of the ways institutions attempt to absorb agency back into instrumental ends.**
 
 
-#### "Stealth Instrumentalism" as Teleological Laundering
+### "Stealth Instrumentalism" as Teleological Laundering
 
 And I’m also not making the sometimes-heard case of “don’t do X for rewards, so X for itself and rewards will follow” (which is a sort of stealth instrumental attitude). I’m saying, “do X because doing X is how you participate in the world and how you be your best self. Rewards may follow or they may not, it’s not part of the calculus”.
 
-#### Nor "Do What You Love"
+### Nor "Do What You Love"
 
 It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
 
 
-### Agency conversation
+Agency conversation
+-------------------
 
 It’s hard to paint a picture of what the world I walk through looks like because, as it’s the water I swim in, it’s hard to articulate what I’m looking at. But there’s a real sense of learned helplessness in the world today and it seems to be growing. People seem discernibly less independent than they seemed when I was a kid, and it sounded like that was worse than my parents’ youth, and so on. If you read literature from 50 or 100 years ago, and compare it to literature today I think it supports that contention, even (especially) when the fiction isn’t trying to tell a story about social issues but just describing how people live.
 
@@ -312,7 +310,7 @@ Re the bike example, I’m not making a case that someone consciously chose to r
 
 
 The Parent as Fiduciary
------------------------
+=======================
 
 TBD. Following are some NTDs on this topic:
 
@@ -360,7 +358,7 @@ I think the honest answer your framework has to give is that the fiduciary model
 
 
 Bridge to Practical Sections
-----------------------------
+============================
 
 TBD
 

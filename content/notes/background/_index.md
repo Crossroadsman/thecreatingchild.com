@@ -364,6 +364,8 @@ Bridge to Practical Sections
 
 TBD
 
+> Then perhaps a short closing section that bridges toward the practical: what this means for how a day is structured, how progress is understood, what the parent's role becomes. Not the full Substance or Implementation material, but enough to signal that this isn't just philosophy — it leads somewhere.
+
 
 
 

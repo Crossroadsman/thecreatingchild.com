@@ -201,6 +201,8 @@ Here's one: How do children live meaningful lives *now*, not later?
 
 David Sarnoff (example from Weapons of Mass Instruction): "...He was able to move so rapidly because he had a chance to think about serious matters before his 8th birthday, to live a significant life before he was 10. He got a chance to add value to his family and community before he was 15..."
 
+NTD: Sarnoff was a nicely articulated example in Gatto's work but for our purposes we need some more ordinary examples to substitute for it.
+
 Not being sequestered into a preparatory holding pen called "childhood" but to be allowed to touch the actual machinery of life while still young.
 
 "Think about serious matters" doesn't mean abstract philosophy homework, it means engaging with real problems.

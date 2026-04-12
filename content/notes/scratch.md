@@ -164,7 +164,7 @@ Bits and Pieces
 The importance of play (see, e.g., Teach Your Own Ch. 6)
 
 
-
+"And while I do agree with the claim that schools are harmful *by design*, I think that can be ignored for this thesis because even a school that had the best of intentions would be harmful because the required agency cannot function in a uniform institutional setting."
 
 
 

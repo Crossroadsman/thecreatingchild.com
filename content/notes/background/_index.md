@@ -10,14 +10,7 @@ Tentative Structure for Actual Background Doc
 
 => *Short untitled opening goes here: the core thesis stated plainly, roughly a paragraph to half a page*
 
-### Something like the following
-
-1. Children are Whole People -> Obvious But People Seldom Follow Through
-2. Given 1, childhood is not preparation for life it *is* life
-3. The point of a child's day is not to learn nor be shaped into a competent adult but to participate in the world at their current scale. And the goal, if there is one, is that the child experiences themself as someone whose actions alter the world
-
-- Somewhere in here goes the fiduciary aspect
-- Somewhere in here is the point that this is not merely a moral claim to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
+Children are not partial people. They are not becoming people. They are already whole people. This seems so obvious as to perhaps sound insulting, but making the point explicit is important because people seldom follow the idea through to its actual conclusion. If a child is a whole person with full moral worth right now, then childhood is not preparation for life, it *is* life. Childhood is not a *work-in-progress* state where the child exists as raw clay to be manipulated into the parent's vision of what an adult should be but a time to *live*, to *be oneself* and to be an operative force in the world. And if childhood is life, then the point of a child's day is not to learn but to participate in the world as a real person at their current scale. Learning still happens, indeed it happens more naturally and more deeply, but as a side effect of participation, not the goal. The goal, if there is one, is for the child to experience herself as someone whose existence affects the world. Not someday. *Now*. A child who helps build, fix, cook, *decide* and care for others is not being trained. He is living. And, as a practical matter, a life of genuine participation is what produces a person who is internally motivated, psychologically sturdy and difficult to dominate. And these are almost certainly going to be the sort of characteristics a future self will have wanted to inculcate as a child so as to give their future self the best opportunities to pursue whatever vision of flourishing their individual nature chooses. Furthermore, this is not merely a moral claim that children are entitled to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
 
 
 
@@ -25,9 +18,6 @@ Children Are Whole People With Full Moral Worth Is Not A Truism
 ---------------------------------------------------------------
 
 Everyone thinks they already agree with this position. It's the kind of claim that produces immediate assent. But once you actually follow that reasoning to its natural conclusion, rather than treating it as just a bumper-sticker slogan, it detonates a surprising amount of what is often taken for granted about education, parenting, authority, efficiency, and even love.
-
-
-
 
 Children are:
 - present beings, not merely future (or unfinished) adults
@@ -48,8 +38,6 @@ As beings with full, present moral worth, then:
 - education must answer to a child's lived experience now
 
 Consider moral agency vs responsibility vs authority
-
-
 
 - What is a child?
   - full moral agents
@@ -258,7 +246,9 @@ So, even instrumentally, agency comes first (but agency isn't reduced to an inst
 Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
 
 
-TBD
+"This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
+
+
 
 
 

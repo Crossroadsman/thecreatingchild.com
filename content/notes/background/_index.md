@@ -10,55 +10,33 @@ Introduction
 
 => *Short untitled opening goes here: the core thesis stated plainly, roughly a paragraph to half a page*
 
-Children are not partial people. They are not becoming people. They are already whole people. This seems so obvious as to perhaps sound insulting, but making the point explicit is important because people seldom follow the idea through to its actual conclusion. If a child is a whole person with full moral worth right now, then childhood is not preparation for life, it *is* life. Childhood is not a *work-in-progress* state where the child exists as raw clay to be manipulated into the parent's vision of what an adult should be but a time to *live*, to *be oneself* and to be an operative force in the world. And if childhood is life, then the point of a child's day is not to learn but to participate in the world as a real person at their current scale. Learning still happens, indeed it happens more naturally and more deeply, but as a side effect of participation, not the goal. The goal, if there is one, is for the child to experience herself as someone whose existence affects the world. Not someday. *Now*. A child who helps build, fix, cook, *decide* and care for others is not being trained. He is living. And, as a practical matter, a life of genuine participation is what produces a person who is internally motivated, psychologically sturdy and difficult to dominate. And these are almost certainly going to be the sort of characteristics a future self will have wanted to inculcate as a child so as to give their future self the best opportunities to pursue whatever vision of flourishing their individual nature chooses. Furthermore, this is not merely a moral claim that children are entitled to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
+Children are not partial people. They are not becoming people. They are already whole people. This seems so obvious as to perhaps sound insulting, but making the point explicit is important because people seldom follow the idea through to its actual conclusion. If a child is a whole person with full moral worth right now, then childhood is not preparation for life, it *is* life. Childhood is not a *work-in-progress* state where the child exists as raw clay to be manipulated into the parent's vision of what an adult should be but a time to *live*, to *be oneself* and to *be an operative force in the world*. And if childhood is life, then the point of a child's day is not to learn but to participate in the world as a real person at their current scale. Learning still happens, indeed it happens more naturally and more deeply, but as a side effect of participation, not the goal. The goal, if there is one, is for the child to experience herself as someone whose existence affects the world. Not someday. *Now*. A child who helps build, fix, cook, *decide* and care for others is not being trained. He is living. And, as a practical matter, a life of genuine participation is what produces a person who is internally motivated, psychologically sturdy and difficult to dominate. And these are almost certainly going to be the sort of characteristics a future self will have wanted to inculcate as a child so as to give their future self the best opportunities to pursue whatever vision of flourishing their individual nature chooses. Furthermore, this is not merely a moral claim that children are entitled to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
 
 
 
 Children Are Whole People With Full Moral Worth Is Not A Truism
 ===============================================================
 
-Everyone thinks they already agree with this position. It's the kind of claim that produces immediate assent. But once you actually follow that reasoning to its natural conclusion, rather than treating it as just a bumper-sticker slogan, it detonates a surprising amount of what is often taken for granted about education, parenting, authority, efficiency, and even love.
+Everyone thinks they already agree with this position. It's the kind of claim that produces immediate assent. But once you actually follow that reasoning to its natural conclusion, rather than treating it as just a bumper-sticker slogan, it challenges a surprising amount of what is often taken for granted about education, parenting, authority, efficiency, and even love.
 
-Children are:
-- present beings, not merely future (or unfinished) adults
-- full moral agents
-    - they care deeply,
-    - they suffer real losses,
-    - they experience pride, shame, loyalty, betrayal, wonder...
-    - they form values,
-    - they notice (and experience) injustice,
-    - they want to **matter**
-- contributors, not trainees
-- creators, not vessels
+Children are full present beings, not merely future (or unfinished) adults. This means that they are full moral agents with almost the full range of human experiences: they care deeply; they suffer real losses; they experience pride, shame, loyalty, betrayal, wonder; they form values; they notice (and experience) injustice; they want to **matter**. In terms of engaging with the world they are contributors, not trainees; and creators, not vessels.
 
-As beings with full, present moral worth, then:
-- suffering cannot be justified merely by future benefit
-- boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good - discuss later)
-- meaning cannot be deferred indefinitely
-- education must answer to a child's lived experience now
+NTD: Is it worth mentioning the story that children and adolescents actually experience things more intensely than adults?
 
-Consider moral agency vs responsibility vs authority
+As beings with full, present moral worth, then that entails present suffering cannot be arbitrarily inflicted and justified merely by future benefit; boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good, which will discuss later); meaning cannot be deferred indefinitely; education must answer to a child's lived experience now.
 
-- What is a child?
-  - full moral agents
-    - they care deeply,
-    - they suffer real losses,
-    - they experience pride, shame, loyalty, betrayal, wonder...
-    - they form values,
-    - they notice (and experience) injustice,
-    - they want to **matter**
-  - a *person* whose scale is different, not whose dignity is lower
-- What is childhood for?
-  - it is for living, and for progressively expanding the scope of that life. It is not about preparation, it is about participation.
-  - childhood is an *end* not a *means*.
+What is Childhood For?
+----------------------
 
-- Children are already living real lives.
-- Childhood is not instrumental.
-- Agency precedes instruction.
-- Meaning comes before measurement.
-- Creation matters more than consumption.
+It is for living, and for progressively expanding the scope of that life. It is not about preparation, it is about participation. Childhood is an *end* not a *means*.
 
-An important aspect of a child-respecting education or development system, something that even Unschooling sometimes ignores or under-appreciates, is that education is a system that takes 15 to 20 years of a young person's life (the years when they have the most imagination, energy, creativity, risk tolerance, free time, neuroplasticity, emotional intensity, novelty-seeking, and openness) and promises in exchange to give them knowledge. Even the best homeschooling systems implicitly make this trade. And perhaps it is a poor bargain. Perhaps more focus during those years should be on supporting the young person to accomplish something they care about, not in terms of credentials, but in terms of putting something into the world. Adding to the stock of the world's wealth (for want of a better term) and building something for and of oneself. "Learning", as popularly understood, is at most a side-effect of that.
+### Children are already living real lives.
+
+TBD
+
+### Childhood is not instrumental.
+
+An important aspect of a child-respecting education or development system, something that even Unschooling sometimes ignores or under-appreciates, is that education is a system that takes 15 to 20 years of a young person's life (the years when they have the most imagination, energy, creativity, risk tolerance, free time, neuroplasticity, emotional intensity, novelty-seeking, and openness) and promises in exchange to give them knowledge. Even the best homeschooling systems implicitly make this trade. And perhaps it is a poor bargain. Instead, more focus during those years should be on supporting the young person to accomplish something they care about, not in terms of credentials, but in terms of putting something into the world. Adding to the stock of the world's wealth (in the broader sense of accumulated knowledge, creation, productivity, etc. Not only, nor even mostly, in money terms) and building something for and of oneself. "Learning", as popularly understood, is at most a side-effect of that.
 
 I feel like there's already quite a lot of child-development and educational books that talk about the importance of children doing real work, not merely artificial exercises. But these are almost always presented (intentionally or not), and even in the homeschooling literature, as incidental: by letting the child do something real they are learning more authentically the thing they are supposed to be learning. For example, let the child help with baking to help them learn fractions, or run a lemonade stand so that they can learn something something money. I think where I'm feeling a difference of emphasis if not in substance is that the work is actually the point and the learning is almost incidental. It's more important for children to *be* part of the world and to *do* something real than to learn (and by happy coincidence, learning naturally follows). I think a lot of the leading writers in the field, like John Holt and Gatto, *get* this point, sometimes even making it explicit, but the structure of the book causes a drift from this essential point towards a more conventional thesis about learning.
 
@@ -70,6 +48,8 @@ Work is valuable because it is *work*.
 Because it connects the child to causality, responsibility, and consequence.
 Because it says: "You are not waiting to matter."
 Learning becomes a side-effect of dignity.
+
+Note: we are making two claims about the value of creation: the experiencing of being an individual with agency and choice (independence and agency in the broader sense) but also being significant and having an effect on the world (the experience of being able to contribute and generate value).
 
 This thesis implies things most people don’t want to say out loud:
 - That schooling has displaced life.
@@ -89,9 +69,22 @@ When learning becomes the goal, everything else becomes instrumental, and this c
 - projects become vehicles,
 - interests become leverage
 
+### Agency precedes instruction.
+
+TBD
+
+### Meaning comes before measurement.
+
+TBD
+
+### Creation matters more than consumption.
+
+TBD
 
 Why it Matters
 --------------
+
+In addition to the moral importance of treating children as whole people, there are practical benefits:
 
 A child who grows up experiencing herself as a cause:
 - doesn't need to be coerced to learn
@@ -107,7 +100,7 @@ She becomes:
 - morally serious
 - difficult to dominate
 
-What People Often Mean When They Accept This Claim
+What People Often *Mean* When They Accept This Claim
 --------------------------------------------------
 
 Most people *say* that children have full moral worth, but they often mean something much weaker, like:
@@ -182,9 +175,6 @@ Bits that belong in this h1 but need to be refactored
 -----------------------------------------------------
 
 
-### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
-
-Here's one: How do children live meaningful lives *now*, not later?
 
 
 ### Examples?
@@ -215,12 +205,8 @@ And this enables a future of moving fast and confidently because they have alrea
 And remember, even if Sarnoff had never become president of RCA, or done anything else of note, he had the experience of living a life of meaning *for himself*. That has sufficient value in its own right, not just what it enables for the future.
 
 
-
-
-Agency As a Muscle that Atrophies Through Lack of Use
-=====================================================
-
-
+What Do We Mean By Agency?
+==========================
 
 Agency, which we regard as morally and developmentally prior to learning, does not mean:
 - radical autonomy,
@@ -249,6 +235,12 @@ Agency is not a reward for compliance. It's not a privilege bestowed when master
 
 
 "This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
+
+
+Agency As a Muscle that Atrophies Through Lack of Use
+=====================================================
+
+
 
 
 The Impact on Conventional Education
@@ -312,6 +304,9 @@ Re the bike example, I’m not making a case that someone consciously chose to r
 The Parent as Fiduciary
 =======================
 
+There is a distinction between moral agency and responsibility and authority, ...
+
+
 TBD. Following are some NTDs on this topic:
 
 So let me begin by describing how I got to this idea. I guess the genesis was an observation made in one of my law school classes about the philosophy of justice. I think it came up in a discussion of some criminal case about some club of sado-masochists (I just looked it up, it’s R v Brown (1993)). I don’t remember exactly what was said or what it triggered in me but I remember that it unlocked something that had been percolating in my mind about what it means to represent someone and their interests and how some people might have radically different but genuine preferences than the person representing them.
@@ -364,6 +359,9 @@ TBD
 
 > Then perhaps a short closing section that bridges toward the practical: what this means for how a day is structured, how progress is understood, what the parent's role becomes. Not the full Substance or Implementation material, but enough to signal that this isn't just philosophy — it leads somewhere.
 
+### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
+
+Having made the moral case, the next question becomes: How do children live meaningful lives *now*, not later?
 
 
 

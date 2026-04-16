@@ -8,8 +8,6 @@ title = 'Background'
 Introduction
 ============
 
-=> *Short untitled opening goes here: the core thesis stated plainly, roughly a paragraph to half a page*
-
 Children are not partial people. They are not becoming people. They are already whole people. This seems so obvious as to perhaps sound insulting, but making the point explicit is important because people seldom follow the idea through to its actual conclusion. If a child is a whole person with full moral worth right now, then childhood is not preparation for life, it *is* life. Childhood is not a *work-in-progress* state where the child exists as raw clay to be manipulated into the parent's vision of what an adult should be but a time to *live*, to *be oneself* and to *be an operative force in the world*. And if childhood is life, then the point of a child's day is not to learn but to participate in the world as a real person at their current scale. Learning still happens, indeed it happens more naturally and more deeply, but as a side effect of participation, not the goal. The goal, if there is one, is for the child to experience herself as someone whose existence affects the world. Not someday. *Now*. A child who helps build, fix, cook, *decide* and care for others is not being trained. He is living. And, as a practical matter, a life of genuine participation is what produces a person who is internally motivated, psychologically sturdy and difficult to dominate. And these are almost certainly going to be the sort of characteristics a future self will have wanted to inculcate as a child so as to give their future self the best opportunities to pursue whatever vision of flourishing their individual nature chooses. Furthermore, this is not merely a moral claim that children are entitled to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
 
 
@@ -24,6 +22,94 @@ Children are full present beings, not merely future (or unfinished) adults. This
 NTD: Is it worth mentioning the story that children and adolescents actually experience things more intensely than adults?
 
 As beings with full, present moral worth, then that entails present suffering cannot be arbitrarily inflicted and justified merely by future benefit; boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good, which will discuss later); meaning cannot be deferred indefinitely; education must answer to a child's lived experience now.
+
+
+
+What People Often *Mean* When They Accept This Claim
+--------------------------------------------------
+
+Most people *say* that children have full moral worth, but they often mean something much weaker, like:
+- children deserve protection from harm,
+- children should be treated kindly,
+- children will one day become morally serious adults.
+
+But what they often *do not* mean, and we emphatically *do* mean is: A child's current experience has intrinsic moral weight, not merely instrumental value.
+
+Moral Deferral
+--------------
+
+Modern societies often run heavily on what might be termed "moral deferral", which looks like:
+- adults impose constraints, boredom, stress, and loss of agency now
+- in order to secure competence, success, or stability later
+- and the tradeoff (if it's even elevated to the status of tradeoff) is treated as not just acceptable, but responsible
+
+It's most obvious in schooling, but once noticed, we see it shows up everywhere.
+
+But, if children are whole people with full moral worth *now*, then:
+- their boredom matters now,
+- their alienation matters now,
+- their humiliation matters now,
+- their loss of meaning matters now.
+
+And not in a sentimental way, but *in the same moral register as adult suffering matters*.
+
+This doesn't mean "never frustrate a child" but it means that frustration demands justification beyond "I think this will be good for you later."
+
+Moral Worth vs Competence
+-------------------------
+
+One reason people might resist the full implications of moral worth is because they conflate moral worth with capacity. When they hear "children are full people" they might think that what is being said is:
+- children should decide everything,
+- children know best,
+- children don't need guidance.
+
+But this is a category error. Moral worth answers the question: "does my experience matter?" while competence answers: "who should decide what, when, and how?".
+
+A child can lack competence and still possess full moral worth. Indeed, that's exactly what makes adults morally responsible *to* children rather than *over* them.
+
+What Accepting Moral Worth Actually Commits You To
+--------------------------------------------------
+
+If children have full moral worth, then several things follow:
+
+### 1. You Cannot Treat Childhood As Disposable Time
+
+Justifications like:
+- "This is just a phase"
+- "This doesn't really count yet"
+- "They'll forget this"
+- "It's necessary now so they succeed later"
+
+rely on the idea that childhood is morally discounted. If it isn't then childhood must be lived, not merely endured.
+
+### 2. You Must Justify Coercion, Not Assume It
+
+Coercion will still occur. Limits will be set and structure will be imposed. But Coercion is not self-justifying. You can't lean on:
+- "That's just how education works"
+- "I know best"
+- "They'll understand later"
+
+You have to be willing to perform the cost-benefit analysis, at least to yourself.
+
+### 3. You Must Take Children's Subjective Experience Seriously
+
+It's not mere data to be managed nor noise around the "real" process but morally relevant in itself. This doesn't mean you automatically defer to it, but it does mean you always *reckon* with it.
+
+
+
+
+What Do We Mean By Agency?
+==========================
+
+Agency, which we regard as morally and developmentally prior to learning, does not mean:
+- radical autonomy,
+- total freedom,
+- absence of structure,
+- self-sufficiency
+But rather *the lived experience of being able to initiate action and see it matter in the world*.
+
+Children deserve to experience themselves as contributors to reality, not merely as future applicants
+
 
 What is Childhood For?
 ----------------------
@@ -100,80 +186,38 @@ She becomes:
 - morally serious
 - difficult to dominate
 
-What People Often *Mean* When They Accept This Claim
---------------------------------------------------
+**A life of significance**
 
-Most people *say* that children have full moral worth, but they often mean something much weaker, like:
-- children deserve protection from harm,
-- children should be treated kindly,
-- children will one day become morally serious adults.
+Learning without agency is morally thin because it trains:
+- passivity
+- compliance
+- external validation
 
-But what they often *do not* mean, and we emphatically *do* mean is: A child's current experience has intrinsic moral weight, not merely instrumental value.
+But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
+- organizes attention,
+- sustains motivation,
+- integrates memory,
+- makes difficulty meaningful.
+So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
 
-Moral Deferral
---------------
-
-Modern societies often run heavily on what might be termed "moral deferral", which looks like:
-- adults impose constraints, boredom, stress, and loss of agency now
-- in order to secure competence, success, or stability later
-- and the tradeoff (if it's even elevated to the status of tradeoff) is treated as not just acceptable, but responsible
-
-It's most obvious in schooling, but once noticed, we see it shows up everywhere.
-
-But, if children are whole people with full moral worth *now*, then:
-- their boredom matters now,
-- their alienation matters now,
-- their humiliation matters now,
-- their loss of meaning matters now.
-
-And not in a sentimental way, but *in the same moral register as adult suffering matters*.
-
-This doesn't mean "never frustrate a child" but it means that frustration demands justification beyond "I think this will be good for you later."
-
-Moral Worth vs Competence
--------------------------
-
-One reason people might resist the full implications of moral worth is because they conflate moral worth with capacity. When they hear "children are full people" they might think that what is being said is:
-- children should decide everything,
-- children know best,
-- children don't need guidance.
-
-But this is a category error. Moral worth answers the question: "does my experience matter?" while competence answers: "who should decide what, when, and how?".
-
-A child can lack competence and still possess full moral worth. Indeed, that's exactly what makes adults morally responsible *to* children rather than *over* them.
-
-What Accepting Moral Worth Actually Commits You To
---------------------------------------------------
-
-If children have full moral worth, then several things follow:
-
-### 1. You Cannot Treat Childhood As Disposable Time
-
-Justifications like:
-- "This is just a phase"
-- "This doesn't really count yet"
-- "They'll forget this"
-- "It's necessary now so they succeed later"
-
-rely on the idea that childhood is morally discounted. If it isn't then childhood must be lived, not merely endured.
-
-### 2. You Must Justify Coercion, Not Assume It
-
-Coercion will still occur. Limits will be set and structure will be imposed. But Coercion is not self-justifying. You can't lean on:
-- "That's just how education works"
-- "I know best"
-- "They'll understand later"
-
-You have to be willing to perform the cost-benefit analysis, at least to yourself.
-
-### 3. You Must Take Children's Subjective Experience Seriously
-
-It's not mere data to be managed nor noise around the "real" process but morally relevant in itself. This doesn't mean you automatically defer to it, but it does mean you always *reckon* with it.
+Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
 
 
-Bits that belong in this h1 but need to be refactored
------------------------------------------------------
+"This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
 
+
+NTD: Agency conversation
+-------------------
+
+It’s hard to paint a picture of what the world I walk through looks like because, as it’s the water I swim in, it’s hard to articulate what I’m looking at. But there’s a real sense of learned helplessness in the world today and it seems to be growing. People seem discernibly less independent than they seemed when I was a kid, and it sounded like that was worse than my parents’ youth, and so on. If you read literature from 50 or 100 years ago, and compare it to literature today I think it supports that contention, even (especially) when the fiction isn’t trying to tell a story about social issues but just describing how people live.
+
+And I’m aware of how I sound with the eternal generational complaint. But I think there is a real truth hiding among the universal complaints about the current generation that’s worth digging for.
+
+I’m also not making the claim that everyone needs to be able to change their own oil or whatever. I don’t and it’s not out of softness or laziness (although I am both soft and lazy). But there’s a sometimes hard to see distinction between losing independence (which I think is happening) and choosing to direct agency towards more specialized tasks and away from general ones (which can look like the same thing). I think institutions tend to train people in the former while calling it the latter.
+
+I also remember, while I’m thinking about it, a newspaper (I think) story from some years ago which had interviewed something like four generations of the same family and how far from home they were allowed to ride their bikes unsupervised. You can imagine what the trend was in the allowable ranges. Now, of course, this is another anecdote. But it’s a revealing one because I think everyone intuits that this is reflective of reality over time and not in contradiction to it.
+
+Re the bike example, I’m not making a case that someone consciously chose to reduce agency, rather that a number of factors, each naturally mutually reinforcing, combined to reduce agency and these are in large part due to institutions and their effect on culture. You hint at it yourself with the fear being the police getting called rather than the fear of something actually bad happening to the child. The police are the enforcement arm of bureaucratic fiat and it’s not for nothing that people surrender their children’s agency out of fear of the institutions than out of fear of the world.
 
 
 
@@ -204,37 +248,6 @@ And this enables a future of moving fast and confidently because they have alrea
 
 And remember, even if Sarnoff had never become president of RCA, or done anything else of note, he had the experience of living a life of meaning *for himself*. That has sufficient value in its own right, not just what it enables for the future.
 
-
-What Do We Mean By Agency?
-==========================
-
-Agency, which we regard as morally and developmentally prior to learning, does not mean:
-- radical autonomy,
-- total freedom,
-- absence of structure,
-- self-sufficiency
-But rather *the lived experience of being able to initiate action and see it matter in the world*.
-
-Children deserve to experience themselves as contributors to reality, not merely as future applicants
-
-**A life of significance**
-
-Learning without agency is morally thin because it trains:
-- passivity
-- compliance
-- external validation
-
-But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
-- organizes attention,
-- sustains motivation,
-- integrates memory,
-- makes difficulty meaningful.
-So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
-
-Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
-
-
-"This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
 
 
 Agency As a Muscle that Atrophies Through Lack of Use
@@ -285,19 +298,6 @@ And I’m also not making the sometimes-heard case of “don’t do X for reward
 
 It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
 
-
-Agency conversation
--------------------
-
-It’s hard to paint a picture of what the world I walk through looks like because, as it’s the water I swim in, it’s hard to articulate what I’m looking at. But there’s a real sense of learned helplessness in the world today and it seems to be growing. People seem discernibly less independent than they seemed when I was a kid, and it sounded like that was worse than my parents’ youth, and so on. If you read literature from 50 or 100 years ago, and compare it to literature today I think it supports that contention, even (especially) when the fiction isn’t trying to tell a story about social issues but just describing how people live.
-
-And I’m aware of how I sound with the eternal generational complaint. But I think there is a real truth hiding among the universal complaints about the current generation that’s worth digging for.
-
-I’m also not making the claim that everyone needs to be able to change their own oil or whatever. I don’t and it’s not out of softness or laziness (although I am both soft and lazy). But there’s a sometimes hard to see distinction between losing independence (which I think is happening) and choosing to direct agency towards more specialized tasks and away from general ones (which can look like the same thing). I think institutions tend to train people in the former while calling it the latter.
-
-I also remember, while I’m thinking about it, a newspaper (I think) story from some years ago which had interviewed something like four generations of the same family and how far from home they were allowed to ride their bikes unsupervised. You can imagine what the trend was in the allowable ranges. Now, of course, this is another anecdote. But it’s a revealing one because I think everyone intuits that this is reflective of reality over time and not in contradiction to it.
-
-Re the bike example, I’m not making a case that someone consciously chose to reduce agency, rather that a number of factors, each naturally mutually reinforcing, combined to reduce agency and these are in large part due to institutions and their effect on culture. You hint at it yourself with the fear being the police getting called rather than the fear of something actually bad happening to the child. The police are the enforcement arm of bureaucratic fiat and it’s not for nothing that people surrender their children’s agency out of fear of the institutions than out of fear of the world.
 
 
 

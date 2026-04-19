@@ -5,24 +5,29 @@ title = 'Background'
 
 
 
+
+
 Introduction
 ============
 
-Children are not partial people. They are not becoming people. They are already whole people. This seems so obvious as to perhaps sound insulting, but making the point explicit is important because people seldom follow the idea through to its actual conclusion. If a child is a whole person with full moral worth right now, then childhood is not preparation for life, it *is* life. Childhood is not a *work-in-progress* state where the child exists as raw clay to be manipulated into the parent's vision of what an adult should be but a time to *live*, to *be oneself* and to *be an operative force in the world*. And if childhood is life, then the point of a child's day is not to learn but to participate in the world as a real person at their current scale. Learning still happens, indeed it happens more naturally and more deeply, but as a side effect of participation, not the goal. The goal, if there is one, is for the child to experience herself as someone whose existence affects the world. Not someday. *Now*. A child who helps build, fix, cook, *decide* and care for others is not being trained. He is living. And, as a practical matter, a life of genuine participation is what produces a person who is internally motivated, psychologically sturdy and difficult to dominate. And these are almost certainly going to be the sort of characteristics a future self will have wanted to inculcate as a child so as to give their future self the best opportunities to pursue whatever vision of flourishing their individual nature chooses. Furthermore, this is not merely a moral claim that children are entitled to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
+**NTD**: This is too long.
 
+Children are not partial people. They are not becoming people. They are already whole people. This seems so obvious as to perhaps sound insulting, but making the point explicit is important because people seldom follow the idea through to its actual conclusion. If a child is a whole person with full moral worth right now, then childhood is not preparation for life, it *is* life. Childhood is not a *work-in-progress* state where the child exists as raw clay to be manipulated into the parent's vision of what an adult should be but a time to *live*, to *be oneself* and to *be an operative force in the world*. And if childhood is life, then the point of a child's day is not to learn but to participate in the world as a real person at their current scale. Learning still happens, indeed it happens more naturally and more deeply, but as a side effect of participation, not the goal. The goal, if there is one, is for the child to experience herself as someone whose existence affects the world. Not someday. *Now*. A child who helps build, fix, cook, *decide* and care for others is not being trained. He is living. And, as a practical matter, a life of genuine participation is what produces a person who is internally motivated, psychologically sturdy and difficult to dominate. And these are almost certainly going to be the sort of characteristics a future self will have wanted to inculcate as a child so as to give their future self the best opportunities to pursue whatever vision of flourishing their individual nature chooses. Furthermore, this is not merely a moral claim that children are entitled to a lived life during childhood but that there is a practical need to remain a whole person. Humans are not *trained* to be independent agents in the world, they are already that, intrinsically, but it's like a muscle that can atrophy if not used.
 
 
 Children Are Whole People With Full Moral Worth Is Not A Truism
 ===============================================================
 
+The Surface Agreement (Everyone Nods, Few Follow Through)
+---------------------------------------------------------
+
 Everyone thinks they already agree with this position. It's the kind of claim that produces immediate assent. But once you actually follow that reasoning to its natural conclusion, rather than treating it as just a bumper-sticker slogan, it challenges a surprising amount of what is often taken for granted about education, parenting, authority, efficiency, and even love.
 
 Children are full present beings, not merely future (or unfinished) adults. This means that they are full moral agents with almost the full range of human experiences: they care deeply; they suffer real losses; they experience pride, shame, loyalty, betrayal, wonder; they form values; they notice (and experience) injustice; they want to **matter**. In terms of engaging with the world they are contributors, not trainees; and creators, not vessels.
 
-NTD: Is it worth mentioning the story that children and adolescents actually experience things more intensely than adults?
+**NTD**: Is it worth mentioning the story that children and adolescents actually experience things more intensely than adults? If so, need to find citation
 
 As beings with full, present moral worth, then that entails present suffering cannot be arbitrarily inflicted and justified merely by future benefit; boredom and alienation cannot be waved away as "necessary" (although boredom can sometimes be a positive good, which will discuss later); meaning cannot be deferred indefinitely; education must answer to a child's lived experience now.
-
 
 
 What People Often *Mean* When They Accept This Claim
@@ -35,8 +40,9 @@ Most people *say* that children have full moral worth, but they often mean somet
 
 But what they often *do not* mean, and we emphatically *do* mean is: A child's current experience has intrinsic moral weight, not merely instrumental value.
 
-Moral Deferral
---------------
+
+Moral Deferral (The Mechanism By Which Society Discounts Childhood)
+-------------------------------------------------------------------
 
 Modern societies often run heavily on what might be termed "moral deferral", which looks like:
 - adults impose constraints, boredom, stress, and loss of agency now
@@ -44,6 +50,8 @@ Modern societies often run heavily on what might be termed "moral deferral", whi
 - and the tradeoff (if it's even elevated to the status of tradeoff) is treated as not just acceptable, but responsible
 
 It's most obvious in schooling, but once noticed, we see it shows up everywhere.
+
+**NTD**: Give some examples here
 
 But, if children are whole people with full moral worth *now*, then:
 - their boredom matters now,
@@ -55,8 +63,9 @@ And not in a sentimental way, but *in the same moral register as adult suffering
 
 This doesn't mean "never frustrate a child" but it means that frustration demands justification beyond "I think this will be good for you later."
 
-Moral Worth vs Competence
--------------------------
+
+Moral Worth vs Competence (Pre-Empting the "Kids Should Decide Everything Misread")
+-----------------------------------------------------------------------------------
 
 One reason people might resist the full implications of moral worth is because they conflate moral worth with capacity. When they hear "children are full people" they might think that what is being said is:
 - children should decide everything,
@@ -67,12 +76,13 @@ But this is a category error. Moral worth answers the question: "does my experie
 
 A child can lack competence and still possess full moral worth. Indeed, that's exactly what makes adults morally responsible *to* children rather than *over* them.
 
+
 What Accepting Moral Worth Actually Commits You To
 --------------------------------------------------
 
 If children have full moral worth, then several things follow:
 
-### 1. You Cannot Treat Childhood As Disposable Time
+### 1. Childhood Is Not Disposable Time
 
 Justifications like:
 - "This is just a phase"
@@ -82,7 +92,7 @@ Justifications like:
 
 rely on the idea that childhood is morally discounted. If it isn't then childhood must be lived, not merely endured.
 
-### 2. You Must Justify Coercion, Not Assume It
+### 2. Coercion Requires Reasonable Justification
 
 Coercion will still occur. Limits will be set and structure will be imposed. But Coercion is not self-justifying. You can't lean on:
 - "That's just how education works"
@@ -91,40 +101,46 @@ Coercion will still occur. Limits will be set and structure will be imposed. But
 
 You have to be willing to perform the cost-benefit analysis, at least to yourself.
 
-### 3. You Must Take Children's Subjective Experience Seriously
+### 3. Children's Subjective Experience Must Be Taken Seriously
 
 It's not mere data to be managed nor noise around the "real" process but morally relevant in itself. This doesn't mean you automatically defer to it, but it does mean you always *reckon* with it.
 
 
 
-
-What Do We Mean By Agency?
-==========================
-
-Agency, which we regard as morally and developmentally prior to learning, does not mean:
-- radical autonomy,
-- total freedom,
-- absence of structure,
-- self-sufficiency
-But rather *the lived experience of being able to initiate action and see it matter in the world*.
-
-Children deserve to experience themselves as contributors to reality, not merely as future applicants
-
-
-What is Childhood For?
-----------------------
+What Childhood Is For
+=====================
 
 It is for living, and for progressively expanding the scope of that life. It is not about preparation, it is about participation. Childhood is an *end* not a *means*.
 
-### Children are already living real lives.
 
-TBD
+Participation, Not Preparation
+------------------------------
 
-### Childhood is not instrumental.
+The Child As Participant in Reality (the Ontological Claim)
+-----------------------------------------------------------
+
+Why Learning is not the Telos
+-----------------------------
+
+### The Poor Bargain (15 Years of Life Traded for Knowledge) ###
 
 An important aspect of a child-respecting education or development system, something that even Unschooling sometimes ignores or under-appreciates, is that education is a system that takes 15 to 20 years of a young person's life (the years when they have the most imagination, energy, creativity, risk tolerance, free time, neuroplasticity, emotional intensity, novelty-seeking, and openness) and promises in exchange to give them knowledge. Even the best homeschooling systems implicitly make this trade. And perhaps it is a poor bargain. Instead, more focus during those years should be on supporting the young person to accomplish something they care about, not in terms of credentials, but in terms of putting something into the world. Adding to the stock of the world's wealth (in the broader sense of accumulated knowledge, creation, productivity, etc. Not only, nor even mostly, in money terms) and building something for and of oneself. "Learning", as popularly understood, is at most a side-effect of that.
 
 I feel like there's already quite a lot of child-development and educational books that talk about the importance of children doing real work, not merely artificial exercises. But these are almost always presented (intentionally or not), and even in the homeschooling literature, as incidental: by letting the child do something real they are learning more authentically the thing they are supposed to be learning. For example, let the child help with baking to help them learn fractions, or run a lemonade stand so that they can learn something something money. I think where I'm feeling a difference of emphasis if not in substance is that the work is actually the point and the learning is almost incidental. It's more important for children to *be* part of the world and to *do* something real than to learn (and by happy coincidence, learning naturally follows). I think a lot of the leading writers in the field, like John Holt and Gatto, *get* this point, sometimes even making it explicit, but the structure of the book causes a drift from this essential point towards a more conventional thesis about learning.
+
+This thesis implies things most people don’t want to say out loud:
+- That schooling has displaced life.
+- That children are being denied participation, not merely miseducated.
+- That the harm is not primarily intellectual but existential.
+- That "preparing for adulthood" has become an excuse to postpone personhood.
+
+When learning becomes the goal, everything else becomes instrumental, and this corrupts the child's relationship to the world (and to themselves):
+- curiosity becomes a tool (if it survives at all),
+- projects become vehicles,
+- interests become leverage
+
+
+### The Inversion (Creation First, Learning as Side Effect) ###
 
 The child exists as a participant in the world.
 Learning exists to support that participation.
@@ -135,13 +151,23 @@ Because it connects the child to causality, responsibility, and consequence.
 Because it says: "You are not waiting to matter."
 Learning becomes a side-effect of dignity.
 
-Note: we are making two claims about the value of creation: the experiencing of being an individual with agency and choice (independence and agency in the broader sense) but also being significant and having an effect on the world (the experience of being able to contribute and generate value).
+When we invert the relationship between learning and purpose (instead of "learn alegebra so you can one day do..." we say, "you want to build *X*? Let's learn what you need..."):
+- learning becomes instrumentally meaningful
+- effort becomes voluntary
+- difficulty becomes justified
+- competence becomes visible
+- identity forms around *agency*, not compliance
 
-This thesis implies things most people don’t want to say out loud:
-- That schooling has displaced life.
-- That children are being denied participation, not merely miseducated.
-- That the harm is not primarily intellectual but existential.
-- That "preparing for adulthood" has become an excuse to postpone personhood.
+The child ceases to be a *student*, a vessel for knowledge, and instead is a *creator*, a *maker*, a *contributor*.
+
+
+### What This is Not ###
+
+
+**Creation-first development is not an early-childhood stance that gives way to instrumental reasoning later. It is a lifelong orientation toward agency and meaning. What changes with age is not the moral claim, but the sophistication of the ways institutions attempt to absorb agency back into instrumental ends.**
+
+
+#### Not Anti-Learning ####
 
 Learning is not the goal. This doesn't mean:
 - learning doesn't matter
@@ -150,82 +176,60 @@ Learning is not the goal. This doesn't mean:
 - education should be indifferent to competence
 It means that learning is not the *telos* of childhood.
 
-When learning becomes the goal, everything else becomes instrumental, and this corrupts the child's relationship to the world (and to themselves):
-- curiosity becomes a tool (if it survives at all),
-- projects become vehicles,
-- interests become leverage
+Under this framework, learning isn't the point. But (the right) learning is valuable.
 
-### Agency precedes instruction.
+**Knowledge is inert without purpose**
+
+
+
+#### "Stealth Instrumentalism" As Teleological Laundering ####
+
+And I’m also not making the sometimes-heard case of “don’t do X for rewards, so X for itself and rewards will follow” (which is a sort of stealth instrumental attitude). I’m saying, “do X because doing X is how you participate in the world and how you be your best self. Rewards may follow or they may not, it’s not part of the calculus”.
+
+#### Not "Do What You Love" ####
+
+It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
+
+
+### What This Implies (Schooling Displaces Life, Harm is Existential) ###
+
+What It Looks Like (The Child Who Builds, Fixes, Cooks, Decides, Cares)
+-----------------------------------------------------------------------
+
+Agency
+======
+
+What Do We Mean By Agency? (Initiating Action and Seeing it Matter)
+---------------------------------------------------
+
+Agency, which we regard as morally and developmentally prior to learning, does not mean:
+- radical autonomy,
+- total freedom,
+- absence of structure,
+- self-sufficiency
+But rather *the lived experience of being able to initiate action and see it matter in the world*.
+
+Children deserve to experience themselves as contributors to reality, not merely as future applicants
+
+Note: we are making two claims about the value of creation: the experiencing of being an individual with agency and choice (independence and agency in the broader sense) but also being significant and having an effect on the world (the experience of being able to contribute and generate value).
+
+### Initiative ###
+
+The need and benefit of perceiving oneself as having the authority and capacity to act towards chosen ends.
+
+#### Examples ####
 
 TBD
 
-### Meaning comes before measurement.
+### Significance ###
 
-TBD
+The corresponding need and benefit of perceiving oneself as having an effect on the world.
 
-### Creation matters more than consumption.
-
-TBD
-
-Why it Matters
---------------
-
-In addition to the moral importance of treating children as whole people, there are practical benefits:
-
-A child who grows up experiencing herself as a cause:
-- doesn't need to be coerced to learn
-- doesn't collapse when structures change
-- doesn't outsource her worth to institutions
-- doesn't confuse obedience with goodness
-- doesn't equate value with performance
-
-She becomes:
-- internally motivated
-- psychologically sturdy
-- creatively alive
-- morally serious
-- difficult to dominate
-
-**A life of significance**
-
-Learning without agency is morally thin because it trains:
-- passivity
-- compliance
-- external validation
-
-But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
-- organizes attention,
-- sustains motivation,
-- integrates memory,
-- makes difficulty meaningful.
-So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
-
-Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
-
-
-"This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
-
-
-NTD: Agency conversation
--------------------
-
-It’s hard to paint a picture of what the world I walk through looks like because, as it’s the water I swim in, it’s hard to articulate what I’m looking at. But there’s a real sense of learned helplessness in the world today and it seems to be growing. People seem discernibly less independent than they seemed when I was a kid, and it sounded like that was worse than my parents’ youth, and so on. If you read literature from 50 or 100 years ago, and compare it to literature today I think it supports that contention, even (especially) when the fiction isn’t trying to tell a story about social issues but just describing how people live.
-
-And I’m aware of how I sound with the eternal generational complaint. But I think there is a real truth hiding among the universal complaints about the current generation that’s worth digging for.
-
-I’m also not making the claim that everyone needs to be able to change their own oil or whatever. I don’t and it’s not out of softness or laziness (although I am both soft and lazy). But there’s a sometimes hard to see distinction between losing independence (which I think is happening) and choosing to direct agency towards more specialized tasks and away from general ones (which can look like the same thing). I think institutions tend to train people in the former while calling it the latter.
-
-I also remember, while I’m thinking about it, a newspaper (I think) story from some years ago which had interviewed something like four generations of the same family and how far from home they were allowed to ride their bikes unsupervised. You can imagine what the trend was in the allowable ranges. Now, of course, this is another anecdote. But it’s a revealing one because I think everyone intuits that this is reflective of reality over time and not in contradiction to it.
-
-Re the bike example, I’m not making a case that someone consciously chose to reduce agency, rather that a number of factors, each naturally mutually reinforcing, combined to reduce agency and these are in large part due to institutions and their effect on culture. You hint at it yourself with the fear being the police getting called rather than the fear of something actually bad happening to the child. The police are the enforcement arm of bureaucratic fiat and it’s not for nothing that people surrender their children’s agency out of fear of the institutions than out of fear of the world.
-
-
-
-### Examples?
+#### Examples ####
 
 David Sarnoff (example from Weapons of Mass Instruction): "...He was able to move so rapidly because he had a chance to think about serious matters before his 8th birthday, to live a significant life before he was 10. He got a chance to add value to his family and community before he was 15..."
 
-NTD: Sarnoff was a nicely articulated example in Gatto's work but for our purposes we need some more ordinary examples to substitute for it.
+**NTD**: Sarnoff was a nicely articulated example in Gatto's work but for our purposes we need some more ordinary examples to substitute for it.
 
 Not being sequestered into a preparatory holding pen called "childhood" but to be allowed to touch the actual machinery of life while still young.
 
@@ -249,15 +253,62 @@ And this enables a future of moving fast and confidently because they have alrea
 And remember, even if Sarnoff had never become president of RCA, or done anything else of note, he had the experience of living a life of meaning *for himself*. That has sufficient value in its own right, not just what it enables for the future.
 
 
+Agency as Prior to Learning
+---------------------------
 
-Agency As a Muscle that Atrophies Through Lack of Use
-=====================================================
+Learning without agency is morally thin because it trains:
+- passivity
+- compliance
+- external validation
+
+But there is also a practical side-effect: children learn *better* when they experience themselves as agents. Agency:
+- organizes attention,
+- sustains motivation,
+- integrates memory,
+- makes difficulty meaningful.
+So, even instrumentally, agency comes first (but agency isn't reduced to an instrument).
+
+Agency is not a reward for compliance. It's not a privilege bestowed when mastery is attained. It's not a performance. Agency is not the prize at the end of learning, it is the soil that learning grows in.
 
 
 
+Agency as Intrinsic but Subject to Atrophy
+------------------------------------------
 
-The Impact on Conventional Education
-------------------------------------
+### The Structural Loss (Not Conscious Suppression but Environmental) ###
+
+It’s hard to paint a picture of what the world I walk through looks like because, as it’s the water I swim in, it’s hard to articulate what I’m looking at. But there’s a real sense of learned helplessness in the world today and it seems to be growing. People seem discernibly less independent than they seemed when I was a kid, and it sounded like that was worse than my parents’ youth, and so on. If you read literature from 50 or 100 years ago, and compare it to literature today I think it supports that contention, even (especially) when the fiction isn’t trying to tell a story about social issues but just describing how people live.
+
+And I’m aware of how I sound with the eternal generational complaint. But I think there is a real truth hiding among the universal complaints about the current generation that’s worth digging for.
+
+I’m also not making the claim that everyone needs to be able to change their own oil or whatever. I don’t and it’s not out of softness or laziness (although I am both soft and lazy). But there’s a sometimes hard to see distinction between losing independence (which I think is happening) and choosing to direct agency towards more specialized tasks and away from general ones (which can look like the same thing). I think institutions tend to train people in the former while calling it the latter.
+
+
+### The Shrinking Radius (Bike Example as Concrete Anchor) ###
+
+I also remember, while I’m thinking about it, a newspaper (I think) story from some years ago which had interviewed something like four generations of the same family and how far from home they were allowed to ride their bikes unsupervised. You can imagine what the trend was in the allowable ranges. Now, of course, this is another anecdote. But it’s a revealing one because I think everyone intuits that this is reflective of reality over time and not in contradiction to it.
+
+
+### Institutional Fear vs Real-World Fear ###
+
+### The Feedback Loop (Institutions -> Compliant Parents -> Constrained Children -> Grow into Compliant Parents) ###
+
+Re the bike example, I’m not making a case that someone consciously chose to reduce agency, rather that a number of factors, each naturally mutually reinforcing, combined to reduce agency and these are in large part due to institutions and their effect on culture. You hint at it yourself with the fear being the police getting called rather than the fear of something actually bad happening to the child. The police are the enforcement arm of bureaucratic fiat and it’s not for nothing that people surrender their children’s agency out of fear of the institutions than out of fear of the world.
+
+
+### The Loss of the Generalist Reflex ###
+
+The Institutional Critique
+--------------------------
+
+### Not Malice but Structure ###
+
+### Even Ideal Schools Can't Preserve Agency at Scale ###
+
+"This is not only a moral claim but a developmental one. Human beings are born with the capacity for agency — the ability to initiate action and see it matter in the world. But agency is not something you build through instruction. It is something intrinsic that atrophies if it goes unused. A child who spends years being told what to do, when, and how is not merely being inconvenienced. She is being systematically separated from her own capacity to act. And this damage does not require malice or even incompetence — it is the inevitable consequence of any institutional environment that must standardize, schedule, and manage at scale. Even a school built with the best intentions cannot let thirty children each pursue their own authorship simultaneously. The structure itself is the harm."
+
+### Impact on Conventional Educational Practices ###
+
 
 If you truly accept the premise, then many ordinary practices become ethically questionable:
 - long hours of enforced passivity
@@ -268,44 +319,32 @@ If you truly accept the premise, then many ordinary practices become ethically q
 Of course, this doesn't automatically tell you what to do instead but it does reveal that "business as usual" is not morally innocent.
 
 
-This includes the Ontological Claim: The Child is a Participant, Not a Learner Being Prepared
+Resilience
+----------
 
-On "Learning"
--------------
+### What Resilience is Not (Endurance of Imposed Suffering) ###
 
-Under this framework, learning isn't the point. But (the right) learning is valuable.
+### What Resilience Is (Continuing After Failure on Chosen Projects) ###
 
-**Knowledge is inert without purpose**
+### The Role of Peer (and near-peer) Examples ###
 
-When we invert the relationship between learning and purpose (instead of "learn alegebra so you can one day do..." we say, "you want to build *X*? Let's learn what you need..."):
-- learning becomes instrumentally meaningful
-- effort becomes voluntary
-- difficulty becomes justified
-- competence becomes visible
-- identity forms around *agency*, not compliance
+#### Why Peers Matter More Than Adults or Institutional Peers ####
 
-The child ceases to be a *student*, a vessel for knowledge, and instead is a *creator*, a *maker*, a *contributor*.
+#### Mixed-Age Voluntary Environments ####
+
+#### The Gym Analogy (Compensatory Infrastructure for a Modern Deficit) ####
 
 
-**Creation-first development is not an early-childhood stance that gives way to instrumental reasoning later. It is a lifelong orientation toward agency and meaning. What changes with age is not the moral claim, but the sophistication of the ways institutions attempt to absorb agency back into instrumental ends.**
-
-
-### "Stealth Instrumentalism" as Teleological Laundering
-
-And I’m also not making the sometimes-heard case of “don’t do X for rewards, so X for itself and rewards will follow” (which is a sort of stealth instrumental attitude). I’m saying, “do X because doing X is how you participate in the world and how you be your best self. Rewards may follow or they may not, it’s not part of the calculus”.
-
-### Nor "Do What You Love"
-
-It’s also not a simple “do what you love” sort of admonition. It’s do what is meaningful and the reward is a meaningful life.
-
-
-
+### Why Resilience Requires Agency First ###
 
 The Parent as Fiduciary
 =======================
 
 There is a distinction between moral agency and responsibility and authority, ...
 
+
+Genesis of the Idea
+-------------------
 
 TBD. Following are some NTDs on this topic:
 
@@ -320,31 +359,32 @@ I think the critical distinction is that “what’s best for them” is using t
 It’s worth a brief aside to say that respecting their values doesn’t mean abdicating responsibility. For example, suppose a 15 year old wants a tattoo but as an older person you have the life experience to know that this is easy to regret. Rather than just overriding their preference, which probably comes from a real place, it’s work with the child to find a way that they can truly express their individuality but in a way that doesn’t foreclose future choices, so maybe letting them get an ugly piercing or dying their hair in some obnoxious colour is a fair substitute.
 
 
-### Direction of Service
+What Fiduciary Means in this Context
+------------------------------------
+
+### Why Reading and Numeracy Matter Within This Framework ###
+
+
+Direction of Service (Serving the Future Self, Not the Parent's Values)
+-----------------------------------------------------------------------
 
 Parent not serving their own values, nor the child's current preferences but rather the parent's best estimate of the what the child's own future self would endorse.
 
-### Preserving Optionality
+### No Self-Dealing ###
 
-This is really a corollary of the first point, but is important enough to make explicit.
-
-All about not foreclosing future opportunities
-
-### No self-dealing
-
-on the face of it is so obvious as to not seem worthy of mentioning, but as with everything here, the devil’s in the details and there are subtle tensions that are harder to resolve than the cliche of the failed actor parent who pushes their child into acting to live vicariously through them while claiming it’s for the child. But there are genuinely hard cases, like allocating the parent’s time and energy between direct engagement with the child and working (which provides future opportunities for the child). Maybe that’s not strictly a question of self-dealing (although some parents use the claim of the child’s future wellbeing as an excuse to indulge their workaholism).
+On the face of it is so obvious as to not seem worthy of mentioning, but as with everything here, the devil’s in the details and there are subtle tensions that are harder to resolve than the cliche of the failed actor parent who pushes their child into acting to live vicariously through them while claiming it’s for the child. But there are genuinely hard cases, like allocating the parent’s time and energy between direct engagement with the child and working (which provides future opportunities for the child). Maybe that’s not strictly a question of self-dealing (although some parents use the claim of the child’s future wellbeing as an excuse to indulge their workaholism).
 
 Distinguish between:
 
-#### Clear Self-Dealing
+#### Clear Self-Dealing ####
 
 E.g., stage-parent
 
-#### Self-Maintenance
+#### Legitimate Self-Maintenance ####
 
 The parent who works, rests, or sets boundaries to sustain their own capacity to serve the child
 
-#### Real Tension
+#### Genuine Tension (The Unsolvable Middle) ####
 
 There are decisions where the parent's interest and the child's interests are real, legitimate, and in genuine tension and no amount of honesty can fully disentangle them.
 
@@ -352,8 +392,70 @@ Example: A parent who works more to provide financial stability for the child is
 I think the honest answer your framework has to give is that the fiduciary model doesn't resolve these cases — it just requires the parent to notice them and reckon with them rather than hiding behind "it's all for the kids." The duty isn't to be perfect. It's to be honest with yourself about whose interests are actually being served in any given decision. And that's a higher standard than most parenting culture asks for, without being an impossible one.
 
 
-Bridge to Practical Sections
+### What Constrains the Fiduciary (Not Perfection but Honesty) ###
+
+
+Preserving Optionality
+----------------------
+
+This is really a corollary of the first point, but is important enough to make explicit.
+
+All about not foreclosing future opportunities
+
+### The Inverse Relationship (More Optionality When Young, More Direction Following When Older) (?) ###
+
+
+
+
+Navigating the Majority World
+=============================
+
+The Trade-Off is Real and Should Be Made Explicit
+-------------------------------------------------
+
+The Framework Must Produce People Who Can Function in Unfriendly Environments
+-----------------------------------------------------------------------------
+
+Informed Agency (Knowing What You Are and What the World Is)
+------------------------------------------------------------
+
+Strategic Compliance vs Surrender
+---------------------------------
+
+Why It Matters
+==============
+
+The Agentic Child (What She Becomes)
+------------------------------------
+
+In addition to the moral importance of treating children as whole people, there are practical benefits:
+
+A child who grows up experiencing herself as a cause:
+- doesn't need to be coerced to learn
+- doesn't collapse when structures change
+- doesn't outsource her worth to institutions
+- doesn't confuse obedience with goodness
+- doesn't equate value with performance
+
+She becomes:
+- internally motivated
+- psychologically sturdy
+- creatively alive
+- morally serious
+- difficult to dominate
+
+
+The Agentic Adult (Difficult to Dominate, and Why That's the Point)
+-------------------------------------------------------------------
+
+The Broader Vision (A Community of People Who *Act*)
+----------------------------------------------------
+
+Bridge to Practical Sessions
 ============================
+
+From Philosophy to the Shape of a Day
+--------------------------------------
 
 TBD
 
@@ -362,7 +464,3 @@ TBD
 ### What is the Question We're Actually Trying to Answer, the Problem We Actually Want to Solve?
 
 Having made the moral case, the next question becomes: How do children live meaningful lives *now*, not later?
-
-
-
-
